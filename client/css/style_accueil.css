@@ -6,7 +6,7 @@
 html { 
   margin:0;
   padding:0;
-  background: url(images/photo.jpg) no-repeat center center fixed; 
+  background: url(/images/photo.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   background-size: cover; 
   opacity: 0.7;
@@ -168,18 +168,18 @@ footer .row a{
 
 .item:nth-child(1) {
     margin-top: 190px;
-    background: url("caroussel/s01_v2.jpg") no-repeat ;
+    background: url("/caroussel/s01_v2.jpg") no-repeat ;
     background-size: contain;
 
 }
 .item:nth-child(2) {
     margin-top: 190px;
-    background: url("caroussel/s02_v2.jpg") no-repeat ;
+    background: url("/caroussel/s02_v2.jpg") no-repeat ;
     background-size: contain;
 }
 .item:nth-child(3) {
     margin-top: 190px;
-    background: url("caroussel/s03_v2.jpg") no-repeat;
+    background: url("/caroussel/s03_v2.jpg") no-repeat;
     background-size: contain;
 }
 .carousel {
@@ -195,16 +195,16 @@ footer .row a{
 @media (min-width: 1920px) {
 
     .item:nth-child(1) {
-        background: url("caroussel/s01_v2.jpg") no-repeat ;
+        background: url("/caroussel/s01_v2.jpg") no-repeat ;
         background-size: cover;
 
     }
     .item:nth-child(2) {
-        background: url("caroussel/s02_v2.jpg") no-repeat ;
+        background: url("/caroussel/s02_v2.jpg") no-repeat ;
         background-size: cover;
     }
     .item:nth-child(3) {
-        background: url("caroussel/s03_v2.jpg") no-repeat;
+        background: url("/caroussel/s03_v2.jpg") no-repeat;
         background-size: cover;
     }
 
@@ -213,18 +213,18 @@ footer .row a{
 @media (max-width: 1293px) {
 .item:nth-child(1) {
     margin-top: 190px;
-    background: url("caroussel/s01_v2.jpg") no-repeat ;
+    background: url("/caroussel/s01_v2.jpg") no-repeat ;
     background-size: cover;
 
 }
 .item:nth-child(2) {
     margin-top: 190px;
-    background: url("caroussel/s02_v2.jpg") no-repeat ;
+    background: url("/caroussel/s02_v2.jpg") no-repeat ;
     background-size: cover;
 }
 .item:nth-child(3) {
     margin-top: 190px;
-    background: url("caroussel/s03_v2.jpg") no-repeat;
+    background: url("/caroussel/s03_v2.jpg") no-repeat;
     background-size: cover;
 }
 
@@ -236,18 +236,18 @@ footer .row a{
     
 .item:nth-child(1) {
     margin-top: 190px;
-    background: url("caroussel/s01_moy_v3.jpg") no-repeat ;
+    background: url("/caroussel/s01_moy_v3.jpg") no-repeat ;
     background-size: contain;
 
 }
 .item:nth-child(2) {
     margin-top: 190px;
-    background: url("caroussel/s02_moy.jpg") no-repeat ;
+    background: url("/caroussel/s02_moy.jpg") no-repeat ;
     background-size: contain;
 }
 .item:nth-child(3) {
     margin-top: 190px;
-    background: url("caroussel/s03_moy.jpg") no-repeat;
+    background: url("/caroussel/s03_moy.jpg") no-repeat;
     background-size: contain;
 }
 
@@ -293,16 +293,16 @@ footer .row a{
 @media (max-width: 752px) {
 
     .item:nth-child(1) {
-        background: url("caroussel/s01_moy_v3.jpg") no-repeat ;
+        background: url("/caroussel/s01_moy_v3.jpg") no-repeat ;
         background-size: cover;
 
     }
     .item:nth-child(2) {
-        background: url("caroussel/s02_moy.jpg") no-repeat ;
+        background: url("/caroussel/s02_moy.jpg") no-repeat ;
         background-size: cover;
     }
     .item:nth-child(3) {
-        background: url("caroussel/s03_moy.jpg") no-repeat;
+        background: url("/caroussel/s03_moy.jpg") no-repeat;
         background-size: cover;
     }
 
@@ -316,19 +316,19 @@ footer .row a{
 
     /* photo en portrait contain */
     .item:nth-child(1) {
-        background: url("caroussel/s01_portrait.jpg") no-repeat center center;
+        background: url("/caroussel/s01_portrait.jpg") no-repeat center center;
         background-size: cover;
 
     }
 
     .item:nth-child(2) {
-        background: url("caroussel/s02_portrait.jpg") no-repeat ;
+        background: url("/caroussel/s02_portrait.jpg") no-repeat ;
         background-size: cover;
 
     }
 
     .item:nth-child(3) {
-        background: url("caroussel/s03_portrait.jpg") no-repeat ;
+        background: url("/caroussel/s03_portrait.jpg") no-repeat ;
         background-size: cover;
 
     }
@@ -339,20 +339,20 @@ footer .row a{
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
     /* photo en portrait contain */
     .item:nth-child(1) {
-        background: url("caroussel/s01_portrait.jpg") no-repeat ;
+        background: url("/caroussel/s01_portrait.jpg") no-repeat ;
         background-size: cover;
 
 
     }
 
     .item:nth-child(2) {
-        background: url("caroussel/s02_portrait.jpg") no-repeat ;
+        background: url("/caroussel/s02_portrait.jpg") no-repeat ;
         background-size: cover;
 
     }
 
     .item:nth-child(3) {
-        background: url("caroussel/s03_portrait.jpg") no-repeat ;
+        background: url("/caroussel/s03_portrait.jpg") no-repeat ;
         background-size: cover;
 
     }
