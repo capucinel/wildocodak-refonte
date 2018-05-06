@@ -1,0 +1,94 @@
+/*GENERAL*/
+
+html { 
+	margin:0;
+	padding:0;
+	background: url(/images/photo.jpg) no-repeat center fixed; 
+	-webkit-background-size: cover;
+	background-size: cover; 
+	opacity: 0.7;
+}
+
+body {	
+	position: relative;
+	background-color: silver;        
+}
+
+
+/* LOGO*/
+.text-center{
+	height: 140px;
+}
+/*NAVBAR*/
+
+.navbar-default .navbar-nav > li > a {
+	font-size: 30px;
+	color: white;
+	margin-top: 0px;
+	font-family: "Lobster", cursive;
+}
+
+.navbar-default{
+	background-color: black;
+	border-color: transparent;
+}
+
+.navbar .navbar-nav > li > a:hover{
+	color: orange;
+
+}
+
+/* BIO PHOTO*/
+
+/*FOOTER */
+
+
+footer .row {
+	color: white;
+	margin-top: 5px;
+}
+
+footer {
+
+	background-color:#333333;
+	width: 100%;
+	position: fixed;
+	bottom: 0; left: 0; right: 0
+	
+}
+
+footer .row a{
+	color: white;}
+
+
+.footitem{
+		padding:5px;
+		text-align: center;
+
+	}
+
+
+	.icone_reseaux{
+		padding:10px;
+		display:inline;
+	}
+
+	.icone_reseaux > a > img {
+		/* La transition s'applique à la fois sur la largeur et la hauteur, avec une durée d'une seconde. */
+		-webkit-transition: all 0.5s ease; /* Safari et Chrome */
+		-moz-transition: all 0.5s ease; /* Firefox */
+		-ms-transition: all 0.5s ease; /* Internet Explorer 9 */
+		-o-transition: all 0.5s ease; /* Opera */
+		transition: all 0.5s ease;
+	}
+
+
+	.icone_reseaux > a > img:hover {
+		/* L'image est grossie de 25% */
+		-webkit-transform:scale(1.20); /* Safari et Chrome */
+		-moz-transform:scale(1.20); /* Firefox */
+		-ms-transform:scale(1.20); /* Internet Explorer 9 */
+		-o-transform:scale(1.20); /* Opera */
+		transform:scale(1.20);
+	}
+

@@ -1,0 +1,33 @@
+
+/* LOGO*/
+.text-center{
+    height: 140px;
+}
+
+
+/*NAVBAR*/
+
+
+.navbar-default{
+  border-color: transparent;
+  background-color: #333333;
+  position: absolute;
+  opacity: 0.9;
+  width: 100%;
+  margin-top: 0px;
+}
+
+.navbar-default .navbar-nav > li > a {
+    font-size: 30px;
+    color: white;
+    font-family: "Lobster", cursive;
+    margin-top: 0px;
+}
+
+
+
+.navbar .navbar-nav > li > a:hover{
+    color: orange;
+}
+
+
