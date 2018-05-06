@@ -1,0 +1,361 @@
+/* --------------------GENERAL SANS MEDIA QUERY------------------------- */
+
+
+/* GENERAL*/
+
+html { 
+  margin:0;
+  padding:0;
+  background: url(images/photo.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  background-size: cover; 
+  opacity: 0.7;
+}
+
+
+/* CAROUSSEL*/
+
+.carousel-fade .carousel-inner .item {
+    opacity: 0;
+    transition-property: opacity;
+}
+.carousel-fade .carousel-inner .active {
+    opacity: 1;
+}
+.carousel-fade .carousel-inner .active.left,
+.carousel-fade .carousel-inner .active.right {
+    left: 0;
+    opacity: 0;
+    z-index: 1;
+}
+.carousel-fade .carousel-inner .next.left,
+.carousel-fade .carousel-inner .prev.right {
+    opacity: 1;
+}
+.carousel-fade .carousel-control {
+    z-index: 2;
+}
+@media all and (transform-3d),
+(-webkit-transform-3d) {
+    .carousel-fade .carousel-inner > .item.next,
+    .carousel-fade .carousel-inner > .item.active.right {
+        opacity: 0;
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+    }
+    .carousel-fade .carousel-inner > .item.prev,
+    .carousel-fade .carousel-inner > .item.active.left {
+        opacity: 0;
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+    }
+    .carousel-fade .carousel-inner > .item.next.left,
+    .carousel-fade .carousel-inner > .item.prev.right,
+    .carousel-fade .carousel-inner > .item.active {
+        opacity: 1;
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+    }
+}
+
+
+/*FOOTER */
+
+footer{    background-color: #333333;
+    position: absolute;
+    bottom:0;
+    width: 100%;
+    opacity:0.9;
+    font-weight: bold;
+
+}
+
+.footitem{
+    padding:5px;
+    text-align: center;
+}
+
+
+.icone_reseaux{
+    padding:10px;
+    display:inline;
+}
+
+.icone_reseaux > a > img {
+    /* La transition s'applique à la fois sur la largeur et la hauteur, avec une durée d'une seconde. */
+    -webkit-transition: all 0.5s ease; /* Safari et Chrome */
+    -moz-transition: all 0.5s ease; /* Firefox */
+    -ms-transition: all 0.5s ease; /* Internet Explorer 9 */
+    -o-transition: all 0.5s ease; /* Opera */
+    transition: all 0.5s ease;
+}
+
+
+.icone_reseaux > a > img:hover {
+    /* L'image est grossie de 25% */
+    -webkit-transform:scale(1.20); /* Safari et Chrome */
+    -moz-transform:scale(1.20); /* Firefox */
+    -ms-transform:scale(1.20); /* Internet Explorer 9 */
+    -o-transform:scale(1.20); /* Opera */
+    transform:scale(1.20);
+}
+
+footer .row {
+    color: white;
+    margin-top: 5px;
+}
+
+footer .container-fluid{
+
+
+}
+
+footer .row a{
+    color: white;
+}
+
+/* --------------------FIN GENERAL SANS MEDIA QUERY------------------------- */
+
+/* --------------------IMAGES CAROUSSEL V DESKTOP -------------------------- */
+
+
+.carousel-fade .carousel-inner .item {
+    opacity: 0;
+    transition-property: opacity;
+}
+.carousel-fade .carousel-inner .active {
+    opacity: 1;
+}
+.carousel-fade .carousel-inner .active.left,
+.carousel-fade .carousel-inner .active.right {
+    left: 0;
+    opacity: 0;
+    z-index: 1;
+}
+.carousel-fade .carousel-inner .next.left,
+.carousel-fade .carousel-inner .prev.right {
+    opacity: 1;
+}
+.carousel-fade .carousel-control {
+    z-index: 2;
+}
+@media all and (transform-3d),
+(-webkit-transform-3d) {
+    .carousel-fade .carousel-inner > .item.next,
+    .carousel-fade .carousel-inner > .item.active.right {
+        opacity: 0;
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+    }
+    .carousel-fade .carousel-inner > .item.prev,
+    .carousel-fade .carousel-inner > .item.active.left {
+        opacity: 0;
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+    }
+    .carousel-fade .carousel-inner > .item.next.left,
+    .carousel-fade .carousel-inner > .item.prev.right,
+    .carousel-fade .carousel-inner > .item.active {
+        opacity: 1;
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+    }
+}
+
+
+
+
+
+.item:nth-child(1) {
+    margin-top: 190px;
+    background: url("caroussel/s01_v2.jpg") no-repeat ;
+    background-size: contain;
+
+}
+.item:nth-child(2) {
+    margin-top: 190px;
+    background: url("caroussel/s02_v2.jpg") no-repeat ;
+    background-size: contain;
+}
+.item:nth-child(3) {
+    margin-top: 190px;
+    background: url("caroussel/s03_v2.jpg") no-repeat;
+    background-size: contain;
+}
+.carousel {
+    z-index: -99;
+}
+.carousel .item {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+}
+
+
+@media (min-width: 1920px) {
+
+    .item:nth-child(1) {
+        background: url("caroussel/s01_v2.jpg") no-repeat ;
+        background-size: cover;
+
+    }
+    .item:nth-child(2) {
+        background: url("caroussel/s02_v2.jpg") no-repeat ;
+        background-size: cover;
+    }
+    .item:nth-child(3) {
+        background: url("caroussel/s03_v2.jpg") no-repeat;
+        background-size: cover;
+    }
+
+}
+
+@media (max-width: 1293px) {
+.item:nth-child(1) {
+    margin-top: 190px;
+    background: url("caroussel/s01_v2.jpg") no-repeat ;
+    background-size: cover;
+
+}
+.item:nth-child(2) {
+    margin-top: 190px;
+    background: url("caroussel/s02_v2.jpg") no-repeat ;
+    background-size: cover;
+}
+.item:nth-child(3) {
+    margin-top: 190px;
+    background: url("caroussel/s03_v2.jpg") no-repeat;
+    background-size: cover;
+}
+
+}
+
+
+@media (width: 1024px) {
+
+    
+.item:nth-child(1) {
+    margin-top: 190px;
+    background: url("caroussel/s01_moy_v3.jpg") no-repeat ;
+    background-size: contain;
+
+}
+.item:nth-child(2) {
+    margin-top: 190px;
+    background: url("caroussel/s02_moy.jpg") no-repeat ;
+    background-size: contain;
+}
+.item:nth-child(3) {
+    margin-top: 190px;
+    background: url("caroussel/s03_moy.jpg") no-repeat;
+    background-size: contain;
+}
+
+}
+/* -------------------HEADER VERSION DESKTOP ------------------------------ */
+
+
+/* LOGO*/
+.text-center{
+    height: 140px;
+}
+
+
+/*NAVBAR*/
+
+
+.navbar-default{
+  border-color: transparent;
+  background-color: #333333;
+  position: absolute;
+  opacity: 0.9;
+  width: 100%;
+  margin-top: 0px;
+}
+
+.navbar-default .navbar-nav > li > a {
+    font-size: 30px;
+    color: white;
+    font-family: "Lobster", cursive;
+    margin-top: 0px;
+}
+
+
+
+.navbar .navbar-nav > li > a:hover{
+    color: orange;
+}
+
+
+
+/* --------------------IMAGES CAROUSSEL V BURGER & MOBILE ------------------------------ */
+
+@media (max-width: 752px) {
+
+    .item:nth-child(1) {
+        background: url("caroussel/s01_moy_v3.jpg") no-repeat ;
+        background-size: cover;
+
+    }
+    .item:nth-child(2) {
+        background: url("caroussel/s02_moy.jpg") no-repeat ;
+        background-size: cover;
+    }
+    .item:nth-child(3) {
+        background: url("caroussel/s03_moy.jpg") no-repeat;
+        background-size: cover;
+    }
+
+}
+
+
+
+/* --------------------CAROUSSEL MOBILE ------------------------------ */
+
+@media only screen and (max-width : 420px) {
+
+    /* photo en portrait contain */
+    .item:nth-child(1) {
+        background: url("caroussel/s01_portrait.jpg") no-repeat center center;
+        background-size: cover;
+
+    }
+
+    .item:nth-child(2) {
+        background: url("caroussel/s02_portrait.jpg") no-repeat ;
+        background-size: cover;
+
+    }
+
+    .item:nth-child(3) {
+        background: url("caroussel/s03_portrait.jpg") no-repeat ;
+        background-size: cover;
+
+    }
+}
+
+/* --------------------CAROUSSEL IPAD ------------------------------ */
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+    /* photo en portrait contain */
+    .item:nth-child(1) {
+        background: url("caroussel/s01_portrait.jpg") no-repeat ;
+        background-size: cover;
+
+
+    }
+
+    .item:nth-child(2) {
+        background: url("caroussel/s02_portrait.jpg") no-repeat ;
+        background-size: cover;
+
+    }
+
+    .item:nth-child(3) {
+        background: url("caroussel/s03_portrait.jpg") no-repeat ;
+        background-size: cover;
+
+    }
+
+}
+
