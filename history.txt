@@ -1,0 +1,2726 @@
+    1  ..
+    2  cd
+    3  ls
+    4  ll
+    5  ls -la
+    6  cd Documents/queteg
+    7  cd Documents/quete
+    8  cd Documents/quetegit
+    9  ls
+   10  ls -la
+   11  gitk
+   12  ls
+   13  cd ..
+   14  ls
+   15  cd quetegit
+   16  ls
+   17  cd git_hug
+   18  ls
+   19  cd ..
+   20  ls
+   21  cd fantastic-dollop
+   22  ls
+   23  ..
+   24  ls
+   25  ..
+   26  ls
+   27  cd quetegit
+   28  ls
+   29  mv file.php wild.php
+   30  ls
+   31  sudo apt-get update gimp
+   32  cd ..
+   33  javascripting
+   34  cat variables.js
+   35  vim variables.js
+   36  cd ..
+   37  javascripting
+   38  javascripting run
+   39  javascripting verify variables.js
+   40  pwd
+   41  cd ~
+   42  cd Documents
+   43  cd javascripting
+   44  javascripting verify variables.js
+   45  ls variables.js
+   46  javascripting verify variables.js
+   47  javascripting
+   48  javascripting verify variables.js
+   49  javascripting
+   50  cd Documents
+   51  ls
+   52  cd javas
+   53  cd javascript
+   54  cd javascripting
+   55  javascripting
+   56  javascripting verify strings.js
+   57  javascripting
+   58  javascripting verify string-lengh.js
+   59  javascripting verify string-length.js
+   60  javascripting
+   61  javascripting verify revisiting-strings.js
+   62  javascripting verify strings.js
+   63  javascripting help
+   64  javascripting - <french>
+   65  javascripting verify revising-strings.js
+   66  javascripting
+   67  javascripting verify numbers.js
+   68  javascripting
+   69  javascripting verify number-to-string.js
+   70  javascripting
+   71  javascripting verify rounding-numbers.js
+   72  javascripting
+   73  javascripting verify if-statement.js
+   74  javascripting run  if-statement.js
+   75  javascripting verify if-statement.js
+   76  javascripting
+   77  javascripting run  for-loop.js
+   78  javascripting verify for-loop.js
+   79  javascripting
+   80  javascripting verify arrays.js
+   81  javascripting
+   82  javascripting verify array-filtering.js
+   83  javascripting
+   84  verify accessing-array-values.js
+   85  javascripting verify accessing-array-values.js
+   86  cd Documents/javascripting
+   87  javascripting verify accessing-array-values.js
+   88  javascripting
+   89  javascripting verify looping-through-arrays.js
+   90  javascripting instructions
+   91  javascripting
+   92  javascripting verify objects.js
+   93  javascripting
+   94  javascripting verify looping-through-arrays.js
+   95  javascripting
+   96  javascripting verify object-properties.js
+   97  javascripting
+   98  javascripting verify functions.js
+   99  javascripting
+  100  cd Documents/javascripting
+  101  cd Documents
+  102  javascripting verify arguments-de-fonction.js
+  103  javascripting
+  104  javascripting verify scope.js
+  105  javascripting
+  106  node -v
+  107  git --version
+  108  cd Documents/git
+  109  git init git
+  110  ls
+  111  git add bio.css form.html
+  112  git add bio.css
+  113  git status
+  114  cd Documents/github
+  115  cd ..
+  116  ~
+  117  cd Documents
+  118  cd github
+  119  git init github
+  120  git status
+  121  git init
+  122  git status
+  123  git add
+  124  git add .
+  125  git status
+  126  git commit -m "1er commit projet wildo"
+  127  git status
+  128  git checkout master
+  129  git remote add origin https://github.com/capucine/wildocodak.git
+  130  git remote -v
+  131  git push -u origin master
+  132  git remote add origin https://github.com/capucinel/wildocodak.git
+  133  cd Documents/github
+  134  git
+  135  git init
+  136  git status
+  137  git add .
+  138  git status
+  139  git add .
+  140  git commit -m "1er commit projet wildo"
+  141  git status
+  142  git remote add origin https://github.com/capucinel/wildocodak.git
+  143  git push -u origin master
+  144  git pull origin master
+  145  node app.js
+  146  cd ..
+  147  ls
+  148  cd Quetes
+  149  cd Quêtes
+  150  cd Documents/Quêtes
+  151  ls
+  152  cd NodeJS
+  153  node app.js
+  154  node -v
+  155  node app.js
+  156  cd ..
+  157  cd cours
+  158  cd js
+  159  node atelier.js
+  160  node fonctions$.js
+  161  node fonction.js
+  162  node atelier.js
+  163  node fonction.js
+  164  node atelier.js
+  165  node fonction.js
+  166  cd Documents/cours
+  167  ls
+  168  cd ..
+  169  cd cours/js
+  170  node array.js
+  171  node fonction.js
+  172  node array.js
+  173  node sauv.js
+  174  node fonction.js
+  175  node sauv.js
+  176  node average.js
+  177  node calculer.js
+  178  node atelier.js
+  179  node test.js
+  180  node atelier.js
+  181  cd ..
+  182  cd..
+  183  cd ..
+  184  cd Quêtes
+  185  cd js
+  186  node profil.js
+  187  1968-2017
+  188  cd ..
+  189  cd NodeJs
+  190  ls
+  191  cd NodeJS
+  192  node app.js
+  193  note test-node.js
+  194  node test-node.js
+  195  cd Documents/Quêtes/js
+  196  node app.js
+  197  ls
+  198  cd ..
+  199  cd NodeJS
+  200  node app.js
+  201  444
+  202  node app.js
+  203  $
+  204  node app.js
+  205  node test-node.js
+  206  11111
+  207  node test-node.js
+  208  node app.js
+  209  node test-node.js
+  210  node app.js
+  211  node test-node.js
+  212  cd ..
+  213  cd cours
+  214  ls
+  215  cd js
+  216  node atelier2.js
+  217  cd ..
+  218  cd Quêtes
+  219  cd NodeJS
+  220  node test-node.js
+  221  2
+  222  node test-node.js
+  223  cd Quêtes
+  224  cd NodeJS
+  225  node test-node.js
+  226  cd ..
+  227  cd .. 
+  228  cd cours
+  229  ls
+  230  cd js
+  231  node atelier2.js
+  232  node wilderageaverage.js
+  233  quit
+  234  ls
+  235  cd Documents/cours
+  236  ls
+  237  cd js
+  238  cd Documents/cours/js
+  239  node wilderageaverage.js
+  240  cd Documents/cours/js
+  241  node wilderageaverage.js
+  242  cd Documents/Projets/Projet1\ -\ Wildo\ Codak/v2/WildoCodakSite
+  243  git init
+  244  git status
+  245  git add .
+  246  git status
+  247  git commit -m "Commit final Wildo Codak"
+  248  git status
+  249  git push -u origin master
+  250  git remote add origin https://github.com/capucinel/wildocodak.git
+  251  git status
+  252  git remote -v
+  253  git clone https://github.com/capucinel/wildocodak.git
+  254  git checkout master
+  255  git push -u origin master
+  256  git checkout master
+  257  git checkout dev
+  258  git checkout -b dev
+  259  git ls
+  260  ls
+  261  git push wildocodak
+  262  gitk
+  263  git push -u origin master
+  264  git pull
+  265  git push -u origin master
+  266  cd ..
+  267  cd github
+  268  git push -u origin master
+  269  git add .
+  270  git status
+  271  git commit -m "Commit final Wildo Codak"
+  272  git push -u origin master
+  273  git clone https://github.com/capucinel/capucinel.github.io
+  274  node correc.js
+  275  123
+  276  node correc.js
+  277  git clone https://github.com/GITHUB_LOGIN/js-training.git
+  278  cd Documents
+  279  cd github
+  280  git clone https://github.com/GITHUB_LOGIN/js-training.git
+  281  cd ..
+  282  cd js-training-master
+  283  node add.js
+  284  cd js-training-master/exercices
+  285  cd js-training-master/exercises
+  286  cd exercises
+  287  node add.js
+  288  node arr.js
+  289  node capitalize.js
+  290  node circular.js
+  291  node concat-str.js
+  292  node cut.js
+  293  node escape-str
+  294  node primitives.js
+  295  cd Documents
+  296  ls
+  297  cd js-training-master
+  298  cd exercises
+  299  ls
+  300  node primitives.js
+  301  node repeat.js
+  302  node sentence.js
+  303  node sub.js
+  304  cd Documents
+  305  cd cours/js
+  306  node wilderageaverage.js
+  307  cd semaine 3
+  308  cd semaine_3
+  309  ls
+  310  cd semaine_3
+  311  cd semaine.3
+  312  cd semaine\ 3
+  313  dojo2.js
+  314  node dojo2.js
+  315  cd Documents
+  316  cd cours
+  317  cd js
+  318  cd semaine\ 3
+  319  node extest
+  320  node ex_fonctions
+  321  node ex.js
+  322  cd Documents/cours/js/semaine\ 4
+  323  node cours.js
+  324  cd ..
+  325  cd quetes/nodejs
+  326  cd 2
+  327  cd test
+  328  npm init
+  329  npm install module
+  330  npm install cowsay
+  331  npm install cowsay --save
+  332  npm install
+  333  npm init
+  334  clear
+  335  npm install cowsay --save
+  336  npm install
+  337  npm install -g vtop
+  338  sudo npm install -g vtop
+  339  vtop
+  340  node module_cow
+  341  node module_cow.js
+  342  clear
+  343  node module_cow
+  344  clear
+  345  node module_cow
+  346  clear
+  347  node module_cow
+  348  node module_cow.js
+  349  cd ..
+  350  cd cours
+  351  ls
+  352  cd js
+  353  ls
+  354  cd semaine \4
+  355  semaine\ 4
+  356  mkdir exercicesMap
+  357  cd exercicesMap
+  358  clone https://github.com/capucinel/native-array-methods-exercises.git
+  359  git clone https://github.com/capucinel/native-array-methods-exercises.git
+  360  ls
+  361  npm install
+  362  npm init
+  363  cd Documents
+  364  cd cours/js/semaine\ 4
+  365  ls
+  366  cd exercicesMap
+  367  ls
+  368  cd nati
+  369  cd native-array-methods-exercises
+  370  ls
+  371  cd map
+  372  ls
+  373  node require
+  374  node ex1
+  375  node ex1js
+  376  cd Documents
+  377  ls
+  378  cd cours
+  379  ls
+  380  cd js
+  381  cd semaine\ 3
+  382  git clone https://github.com/nan-academy/js-training.git
+  383  ./tester
+  384  cd js-training
+  385  ./tester
+  386  cd Documents
+  387  cd cours
+  388  cd semaine\ 3
+  389  cd js
+  390  cd semaine\ 3
+  391  cd js-training
+  392  ./tester
+  393  cd ..
+  394  cd semaine\ 4
+  395  ls
+  396  node dojo.js
+  397  ls
+  398  node dojo.js
+  399  ./tester
+  400  cd ..
+  401  cd semaine\ 3
+  402  cd js-training
+  403  ./tester
+  404  node is-positive.js
+  405  cd exercises
+  406  node is-positive.js
+  407  cd exercises
+  408  cd ..
+  409  ./tester
+  410  cd exercises
+  411  node repeat.js
+  412  cd ..
+  413  ./tester
+  414  node test.js
+  415  ./tester
+  416  cd Documents/cours/js
+  417  ls
+  418  cd semaine\ 3
+  419  ls
+  420  cd js-training
+  421  ./tester
+  422  cd exercises
+  423  node repeat.js
+  424  ./tester
+  425  cd ..
+  426  ./tester
+  427  node test
+  428  ./tester
+  429  cd Documents/cours/js/semaine\ 3
+  430  ls
+  431  cd js-training
+  432  ./tester
+  433  node test
+  434  ./tester
+  435  node test
+  436  ./tester
+  437  node test
+  438  ./tester
+  439  cd Documents/cours/js/semaine\ 3/js-training
+  440  ./tester
+  441  node test
+  442  ./tester
+  443  node test
+  444  ./tester
+  445  node test
+  446  cd Documents/cours/js/semaine\ 3/
+  447  cd js
+  448  ls
+  449  cd js-training
+  450  node test
+  451  ./tester
+  452  node test
+  453  ./tester
+  454  node test
+  455  ./tester
+  456  cd ..
+  457  cd semaine\ 4
+  458  ls
+  459  cd exercicesMap
+  460  ls
+  461  npm test ./map
+  462  npm install
+  463  npm test ./map
+  464  cd ..
+  465  cd Documents/cours/js/semaine\ 4
+  466  git clone https://github.com/gSchool/native-array-methods-exercises.git
+  467  npm install
+  468  cd native-array-methods-exercises
+  469  npm test ./map
+  470  npm test ./every
+  471  node test
+  472  npm test ./every
+  473  cd ..
+  474  node dojo2
+  475  npm install milligram
+  476  npm -v
+  477  cd ..
+  478  npm install milligram
+  479  sudo apt install npm
+  480  cd Documents/cours/js/semaine\ 4
+  481  node dojo
+  482  node dojo.js
+  483  cd ..
+  484  cd semaine\ 5
+  485  node recurs.js
+  486  cd ..
+  487  cd semaine\ 3
+  488  ls
+  489  cd js-training
+  490  ./tester
+  491  node test.js
+  492  node test2.js
+  493  node test.js
+  494  \tif (b == 0){\n\treturn 0\n}
+  495  node test.js
+  496  node --version
+  497  node test.js
+  498  node --version
+  499  cd Documents/cours/nodejs
+  500  node server
+  501  cd ..
+  502  cd quetes
+  503  ls
+  504  cd js
+  505  ls
+  506  git clone https://github.com/capucinel/js-training.git
+  507  cd js-training
+  508  ./tester
+  509  cd Documents/cours/js/semaine\ 4
+  510  node dojo2.js
+  511  cd Documents/quetes/js/travis
+  512  git init
+  513  git remote add origin https://github.com/capucinel/learn-travis.git
+  514  echo "# learn-travis" >> README.md
+  515  git init
+  516  ls
+  517  pwd
+  518  git add README.md
+  519  git commit -m "first commit"
+  520  git remote add origin https://github.com/capucinel/learn-travis.git
+  521  git push -u origin master
+  522  cd ..
+  523  cd projets
+  524  cd Projets
+  525  cd projet 2
+  526  cd projet \2
+  527  cd Projet2
+  528  git init
+  529  git clone https://github.com/WildCodeSchool/paris-0218-les-tontons-fringale.git
+  530  ls
+  531  cd paris-0218-les-tontons-fringale
+  532  ls
+  533  sublim README.md
+  534  Sublime README.md
+  535  cat README.md
+  536  git checkout dev
+  537  ls
+  538  npm install milligram
+  539  git checkout master
+  540  cd ..
+  541  cd Documents
+  542  cd projets
+  543  cd Projet
+  544  cd Projets
+  545  cd projet2
+  546  cd Projet2
+  547  git clone https://github.com/WildCodeSchool/paris-0218-les-tontons-fringale.git
+  548  cd paris-0218-les-tontons-fringale
+  549  git checkout dev
+  550  git pull
+  551  cd ..
+  552  cd cours
+  553  cd js
+  554  cd nodejs
+  555  cd ..
+  556  cd nodejs
+  557  node server.js
+  558  git pull
+  559  node openclass.js
+  560  express --version
+  561  cd premierserveur
+  562  nom init
+  563  npm init
+  564  npm i -g npm
+  565  sudo npm i -g npm
+  566  cd app
+  567  npm install express --save
+  568  cd ..
+  569  ls
+  570  node openclass.js
+  571  cd Documents/cours/nodejs/livecoding_27_mars
+  572  mkdir server
+  573  npm init
+  574  ls
+  575  cd server
+  576  npm init
+  577  ls
+  578  subl index.js
+  579  cat package.json
+  580  cat package.json jq
+  581  cat package.json | jq
+  582  cat package.json| jq
+  583  sudo apt-get install tmtheme-editor
+  584  sudo apt-get install tmtheme
+  585  node index.js
+  586  git add index.js package.json
+  587  git clone https://github.com/capucinel/urban-adventure.git
+  588  cd urban-adventure
+  589  git checkout -b dev
+  590  git add index.js package.json
+  591  git commit -m "Init nodejs server"
+  592  npm install express
+  593  cat package-lock.json
+  594  ls
+  595  ls node_modules
+  596  git add package.json package-lock.json
+  597  npm install nodmon
+  598  npm install nodemon
+  599  cat package.json
+  600  ls
+  601  tig
+  602  git commit -m "install express"
+  603  node index.js
+  604  git add index.js
+  605  git commit -m "switch to express app instead of raw http"
+  606  node index.js
+  607  cd Documents/cours.nodejs/liv
+  608  cd Documents/cours/nodejs/livecoding_27_mars/server/urban-adventure
+  609  node index.js
+  610  git add index.js
+  611  git commit -m "ajout des mocks"
+  612  node index.js
+  613  tig
+  614  git push
+  615  git push --set-upstream origin dev
+  616  node index.js
+  617  cd Documents/cours/nodejs/livecoding_27_mars
+  618  ls
+  619  cd server
+  620  LS
+  621  ls
+  622  cd urban-adventure
+  623  sudo npm i -g serve
+  624  serve client
+  625  git add client/index.html client/js/app.js
+  626  git commit -m "create first javascript client"
+  627  git push
+  628  serve client
+  629  node index.js
+  630  git pull
+  631  git add server
+  632  ls
+  633  git add serveur
+  634  git commit -m "fix response name"
+  635  node index.js
+  636  serve client
+  637  node index.js
+  638  git add index.js
+  639  git commit -m "fix response name"
+  640  git add client/js/app.js
+  641  git commit -m "fetch route with client"
+  642  git push
+  643  node index.js
+  644  sudo apt-get install xclip
+  645  xclip -sel clip < ~/.ssh/id_rsa.pub
+  646  serve client
+  647  cd Documents/cours/nodejs
+  648  ls
+  649  cd livecoding_27_mars
+  650  ls
+  651  cd server
+  652  l
+  653  ls
+  654  cd urban-adventure
+  655  ls
+  656  serve client
+  657  node server.js
+  658  ls
+  659  node index.js
+  660  serve client
+  661  node index.js
+  662  cd Documents/quetes/Git/git_hug/
+  663  githug
+  664  ls
+  665  gitignore
+  666  cat gitignore
+  667  githug cat git
+  668  githug
+  669  cat .gitignore
+  670  cd ..
+  671  mkdir eval
+  672  cd eval
+  673  git clone https://github.com/WildCodeSchool/paris-0218-checkpoint-1-js.git
+  674  ls
+  675  cd paris-0218-checkpoint-1-js
+  676  git checkout capucineLeclerc
+  677  git branch capucineLeclerc
+  678  git checkout capucineLeclerc
+  679  ls
+  680  cat README.md
+  681  git branch -m capucineLeclerc Capucine_LECLERC
+  682  git status
+  683  cat README.md
+  684  ls
+  685  edit README.md
+  686  cd Documents/eval
+  687  ls
+  688  cd paris-0218-checkpoint-1-js
+  689  ls
+  690  cat README.md
+  691  git status
+  692  cat README.md
+  693  node checkpoint.js
+  694  car README.md
+  695  cat README.md
+  696  node checkpoint.js
+  697  cat README.md
+  698  node checkpoint.js
+  699  cat README.md
+  700  node checkpoint.js
+  701  cat README.md
+  702  node checkpoint.js
+  703  cat README.md
+  704  node checkpoint.js
+  705  cat README.md
+  706  node checkpoint.js
+  707  cat README.md
+  708  cd Documents/eval
+  709  ls
+  710  cd paris-0218-checkpoint-1-js
+  711  git status
+  712  git add images
+  713  git status
+  714  git add QCM.md checkpoint.js index.css index.html images
+  715  git commit -m "fichiers eva"
+  716  git status
+  717  git push
+  718  git push --set-upstream origin Capucine_LECLERC
+  719  cd Documents/ls
+  720  ls
+  721  cd Documents
+  722  ls
+  723  cd Projets
+  724  LS
+  725  ls
+  726  cd Projet2
+  727  ls
+  728  cd paris-0218-les-tontons-fringale
+  729  git status
+  730  git pull
+  731  serve client
+  732  node index.js
+  733  node server.js
+  734  cd server
+  735  node server.js
+  736  node index.js
+  737  npm express
+  738  history > history_for_print.txt
+  739  cat history_for_print.txt
+  740  npm install express --save
+  741  node index.js
+  742  cat history_for_print.txt
+  743  npm install jshint --save-dev
+  744  cd ..
+  745  cd ../../cours
+  746  ls
+  747  cd nodejs
+  748  ls
+  749  cd livecoding_27_mars
+  750  ls
+  751  cd server
+  752  ls
+  753  cd urban-adventure
+  754  ls
+  755  npm test
+  756  cd ..
+  757  cd ../quetes
+  758  cd js
+  759  ls
+  760  cd travis
+  761  npm test
+  762  ls
+  763  git status
+  764  git add .
+  765  git commit -m "travis files"
+  766  git push
+  767  git status
+  768  git pull
+  769  npm test
+  770  node hello.js*
+  771  npm install jshint --save-dev
+  772  npm test
+  773  git status
+  774  git add hello.js package.json
+  775  git commi -m "travis"
+  776  git commit -m "travis"
+  777  git status
+  778  git push
+  779  npm test
+  780  jshint
+  781  jshint --v
+  782  jshint --version
+  783  npm install jshint --save-dev
+  784  ls
+  785  git status
+  786  git add package-lock.json
+  787  git status
+  788  git commit -m "travis"
+  789  git push
+  790  npm test
+  791  git branch dev
+  792  git checkout dev
+  793  git branch dev
+  794  npm test
+  795  git status
+  796  git add package.json
+  797  git status
+  798  git commit -m "travis"
+  799  git push
+  800  git checkout master
+  801  git push
+  802  git pull
+  803  git push
+  804  npm test
+  805  cd ..
+  806  cd vending-machine
+  807  ls
+  808  mkdir vending-machine && cd vending-machine
+  809  cd ..
+  810  ls
+  811  cd js-training
+  812  npm test
+  813  git pull
+  814  cd ..
+  815  cd travis
+  816  git status
+  817  git add .
+  818  git commit "test js training"
+  819  git commit -m "test js training"
+  820  git status
+  821  git push
+  822  cd ..
+  823  cd js-training
+  824  / tester
+  825  npm test
+  826  ./tester
+  827  cd ..
+  828  cd travis
+  829  git status
+  830  git commit -m "mofif multiply"
+  831  git add exercises/
+  832  git status
+  833  git commit -m "mofif multiply"
+  834  git push
+  835  npm test
+  836  git status
+  837  git add package.json
+  838  git status
+  839  git commit -m "mofif multiply"
+  840  git push
+  841  st
+  842  st //
+  843  ./tester
+  844  cd Documents/Projets/Projet2/ls
+  845  ls
+  846  cd Documents/Projets/Projet2/
+  847  ls
+  848  cd paris-0218-les-tontons-fringale
+  849  git pull
+  850  cd ..
+  851  cd ../..
+  852  cd quetes
+  853  cd js
+  854  ls
+  855  cd http
+  856  ls
+  857  node meteo.html
+  858  serve index.html
+  859  serve http
+  860  cd ..
+  861  serve http
+  862  cd Documents/quetes/js/http
+  863  node test.js
+  864  cd Documents/Projets/Projet2
+  865  ls
+  866  cd paris-0218-les-tontons-fringale
+  867  ls
+  868  cd client
+  869  ls
+  870  cd ..
+  871  serve client
+  872  npm install express-generator -g
+  873  sudo npm install express-generator -g
+  874  express --hbs
+  875  npm install
+  876  node index.js
+  877  cd routes
+  878  node index.js
+  879  cd ../..
+  880  cd ..
+  881  cd cours
+  882  cd nodejs
+  883  ls
+  884  cd livecoding_27_mars
+  885  ls
+  886  cd server
+  887  node index.js
+  888  ls
+  889  cd urban-adventure
+  890  ls
+  891  cd index.js
+  892  node index.js
+  893  serve client
+  894  cd ..
+  895  serve client
+  896  cd serveur
+  897  ls
+  898  node index.js
+  899  cd ..
+  900  node index.js
+  901  cd ..
+  902  serve client
+  903  ls
+  904  git status
+  905  git add .travis.yml mock.json
+  906  git status
+  907  git commit -m "modif app"
+  908  git push
+  909  cd ../../..
+  910  cd ..
+  911  cd Projets
+  912  cd Projet2
+  913  ls
+  914  cd paris-0218-les-tontons-fringale
+  915  git status
+  916  ls
+  917  node module_test.js
+  918  cd ..
+  919  cd paris-0218-les-tontons-fringale
+  920  git pull
+  921  git checkout dev
+  922  git pull
+  923  valider
+  924  git status
+  925  git checkout app.js
+  926  git check
+  927  git checkout client/js/app.js
+  928  git status
+  929  git checkout server/package-lock.json
+  930  git checkout server/package.json
+  931  git status
+  932  git pull
+  933  git checkout ajout-etab
+  934  git status
+  935  git checkout client/css/home.css
+  936  git checkout client/index.html
+  937  git status
+  938  git checkout ajout-etab
+  939  ls
+  940  serve client
+  941  ls
+  942  cd server
+  943  ls
+  944  node index.js
+  945  serve client
+  946  node index.js
+  947  serve client
+  948  git status
+  949  git stash
+  950  git pull
+  951  git checkout dev
+  952  git pull
+  953  git checkout ajout-etab
+  954  git stash
+  955  git status
+  956  l
+  957  git branch
+  958  git checkout dev
+  959  git satus
+  960  git status
+  961  git checkout ajout-etab
+  962  git status
+  963  stash pop
+  964  git stash pop
+  965  git status
+  966  git add client/css.home.css client/index.html
+  967  git add home.css index.html
+  968  git add client/css/home.css
+  969  git add client/index.html
+  970  git commit -m "Ajout bouton 'ajouter un lieu'"
+  971  git push origin ajout-etab
+  972  git checkout dev
+  973  git status
+  974  git pull
+  975  serve client
+  976  git pull
+  977  node index.js
+  978  git pull
+  979  ls
+  980  cd server
+  981  ls
+  982  cd urban-adventure
+  983  ls
+  984  serve client
+  985  cd server/urban-adventure
+  986  ls
+  987  node index.js
+  988  serve client
+  989  node index.js
+  990  serve client
+  991  node index.js
+  992  git init
+  993  git clone https://github.com/HackaGamers/adopteUnHeros.git
+  994  cd adopteUnHeros
+  995  git clone https://github.com/HackaGamers/adopteUnHeros.git
+  996  git checkout -b capucine
+  997  git branch -d capucine
+  998  git checkout
+  999  git checkout master
+ 1000  git branch -d capucine
+ 1001  git pull
+ 1002  git checkout dev
+ 1003  git checkout -b capucine
+ 1004  cd ..
+ 1005  ls
+ 1006  git clone https://github.com/HackaGamers/adopteUnHeros.git
+ 1007  cd adopteUnHeros
+ 1008  git checkout dev
+ 1009  git branch -d capucine
+ 1010  git checkout -b capucine
+ 1011  tig
+ 1012  git pull
+ 1013  git pull dev capucine
+ 1014  git status
+ 1015  git push
+ 1016  ^[[200~git push --set-upstream origin capucine~
+ 1017  git push --set-upstream origin capucine
+ 1018  git pull
+ 1019  git status
+ 1020  git pull
+ 1021  git checjout master
+ 1022  git checkout master
+ 1023  git pull
+ 1024  ls
+ 1025  serve client
+ 1026  ls
+ 1027  node server.js
+ 1028  node index.js
+ 1029  ls
+ 1030  node index.js
+ 1031  serve client
+ 1032  node index.js
+ 1033  ls
+ 1034  cd adopteUnHeros
+ 1035  git checkout capucine
+ 1036  git status
+ 1037  git add client/app.js
+ 1038  git commit -m "app. js recuperation json"
+ 1039  git push origin
+ 1040  git pull
+ 1041  git pull origin capucine
+ 1042  git clone https://github.com/HackaGamers/adopteUnHeros.git
+ 1043  git pull
+ 1044  git status
+ 1045  git commit
+ 1046  git pull
+ 1047  git statud
+ 1048  git status
+ 1049  git add client/app.js
+ 1050  git commit -m "app. js recuperation json"
+ 1051  git push
+ 1052  serve client
+ 1053  ls
+ 1054  node index.js
+ 1055  git checkout capucine
+ 1056  git pull
+ 1057  git status
+ 1058  git add client/app.js
+ 1059  git commit -m "push du soir bonsoir"
+ 1060  git push
+ 1061  ls
+ 1062  git pull
+ 1063  git status
+ 1064  git add client/app.js
+ 1065  git add adopteUnHeros/client/app_git.js
+ 1066  git checkout client/app_git.js
+ 1067  git status
+ 1068  git pull
+ 1069  git status
+ 1070  git pull
+ 1071  git status
+ 1072  git add client/app.js
+ 1073  git commit -m "affichage images"
+ 1074  git push
+ 1075  git pull
+ 1076  git status
+ 1077  git add app.js
+ 1078  git add client/app.js
+ 1079  git add client/index.html
+ 1080  git status
+ 1081  git commit -m "MAJ index et app"
+ 1082  git push
+ 1083  git pull
+ 1084  git status
+ 1085  git checkout client/app_git
+ 1086  git checkout adopteunHeros/client/app_git
+ 1087  git checkout dev
+ 1088  git checkout capucine
+ 1089  git status
+ 1090  git rm adopteUnHeros/client/app_git.js
+ 1091  git rm client/app_git.js
+ 1092  git rm test
+ 1093  git status
+ 1094  git pull
+ 1095  ls
+ 1096  node index.js
+ 1097  cd ..
+ 1098  ls
+ 1099  cd can\ i\ get\ some\ post
+ 1100  node index.js
+ 1101  ls
+ 1102  cd routes
+ 1103  node index.js
+ 1104  cd ..
+ 1105  ls
+ 1106  cd routing
+ 1107  ls
+ 1108  node index.js
+ 1109  cd ../..
+ 1110  cd nodejs
+ 1111  ls
+ 1112  cd can\ i\ get\ some\ post
+ 1113  ls
+ 1114  cd routes
+ 1115  node server.js
+ 1116  node index.js
+ 1117  cd ..
+ 1118  ls
+ 1119  cd routing
+ 1120  ls
+ 1121  node index.js
+ 1122  cd ..
+ 1123  cd can\ i\ get\ some\ post/
+ 1124  cd routes
+ 1125  node index.js
+ 1126  ls
+ 1127  cd learn-travis
+ 1128  git status
+ 1129  git add README.md
+ 1130  git commit -m "modif du readme"
+ 1131  git push
+ 1132  node index.js
+ 1133  cd ..
+ 1134  cd corec
+ 1135  ls
+ 1136  node index.js
+ 1137  node app.js
+ 1138  cd ..
+ 1139  ls
+ 1140  node app.js
+ 1141  ls
+ 1142  node app.js
+ 1143  cd learn-travis
+ 1144  git merge pull push branch checkout origin master stash pop
+ 1145  npm install jshint --save-dev
+ 1146  npm test
+ 1147  language: node_js\nnode_js:\n - "node"\nenv:\n- MY_VAR=EverythignIsAwesome\n- NODE_ENV=TEST
+ 1148  \curl -L https://get.rvm.io | bash -s stable --ruby
+ 1149  rvm install current && rvm use current
+ 1150  gem install travis
+ 1151  sudo ^[[200~rvm install current && rvm use current
+ 1152  sudo rvm install current && rvm use current
+ 1153  npm install travis
+ 1154  travis encrypt MY_SECRET=super_secret
+ 1155  ruby -v
+ 1156  gem install travis --pre
+ 1157  sudo gem install travis --pre
+ 1158  git remote add origin https://github.com/{username}/{projectname}.git
+ 1159  git remote add origin https://github.com/capucinel/learn-travis.git
+ 1160  git init
+ 1161  git remote add origin https://github.com/capucinel/learn-travis.git
+ 1162  git status
+ 1163  ls
+ 1164  git add .
+ 1165  git status
+ 1166  git reset
+ 1167  git status
+ 1168  git add .travis.yml
+ 1169  git add exercices
+ 1170  git add .gitignore
+ 1171  git add -f .gitignore
+ 1172  git status
+ 1173  git push
+ 1174  git push origin master
+ 1175  git push --set-upstream origin master
+ 1176  git pull
+ 1177  git pull learn-travis master
+ 1178  git clone https://github.com/capucinel/learn-travis.git
+ 1179  cd learn-travis
+ 1180  git add .gitignore
+ 1181  git add -f .gitignore
+ 1182  git push
+ 1183  git push origin master
+ 1184  git status
+ 1185  git add .
+ 1186  git commit -m "travis + learn js"
+ 1187  git push origin master
+ 1188  git status
+ 1189  git add README.md
+ 1190  git commit -m "modif readme"
+ 1191  git push
+ 1192  cd ..
+ 1193  ls
+ 1194  cd js-training
+ 1195  git status
+ 1196  git add .
+ 1197  git commit "js training et travis"
+ 1198  git commit -m "js training et travis"
+ 1199  git push
+ 1200  git status
+ 1201  git add README.md
+ 1202  git commit -m "updata readme"
+ 1203  git push
+ 1204  git clone https://github.com/nan-academy/js-training.git
+ 1205  cd js-training
+ 1206  git status
+ 1207  git add package.json
+ 1208  git commit -m "update package"
+ 1209  git push
+ 1210  git status
+ 1211  git add package.json
+ 1212  git commit -m "update package again"
+ 1213  git push
+ 1214  git init
+ 1215  git branch dev
+ 1216  git checkout dev
+ 1217  git branch dev
+ 1218  git checkout -b dev
+ 1219  git checkout -b wcs
+ 1220  git status
+ 1221  ls
+ 1222  cd ..
+ 1223  cd git\ remote
+ 1224  git status
+ 1225  git add README.md
+ 1226  git commit -m "first commit readme"
+ 1227  git remote add orifin https://github.com/capucinel/super-tribble.git
+ 1228  git remote -v
+ 1229  git remote add origin https://github.com/capucinel/super-tribble.git
+ 1230  git remote -v
+ 1231  git checkout master
+ 1232  git branch master
+ 1233  git push -u origin master
+ 1234  git push -u origin wcs
+ 1235  git status
+ 1236  git add wild.php
+ 1237  git commit -m "fichier wild"
+ 1238  git push
+ 1239  git pull origin wcs
+ 1240  git status
+ 1241  git checkout master
+ 1242  git pull origin master
+ 1243  git merge wcs
+ 1244  git init
+ 1245  git checkout dev
+ 1246  git remote add origin https://github.com/capucinel/adoreYourHeroe.git
+ 1247  git remote -v
+ 1248  git checkout dev
+ 1249  git checkout -b dev
+ 1250  git status
+ 1251  git add .
+ 1252  git commit -m "arbo + serveur"
+ 1253  git push -u origin dev
+ 1254  git checkout -b popup-connexion
+ 1255  git pull
+ 1256  serve client
+ 1257  node server
+ 1258  cd server
+ 1259  ls
+ 1260  node index.js
+ 1261  ls
+ 1262  node user.js
+ 1263  git checkout dev
+ 1264  git pull
+ 1265  cd ..
+ 1266  git checkout master
+ 1267  git branch master
+ 1268  git checkout master
+ 1269  sudo npm i -g serve
+ 1270  git checkout dev
+ 1271  git status
+ 1272  git add index.js
+ 1273  git add serveur/index.js
+ 1274  git add client/js/app3.js
+ 1275  git commit -m "maj fichiers"
+ 1276  git status
+ 1277  ls
+ 1278  serve client
+ 1279  ls
+ 1280  cd serveur
+ 1281  cd ..
+ 1282  npm init
+ 1283  git status
+ 1284  git add .gitignore
+ 1285  ls
+ 1286  git add .gitignore
+ 1287  git add -f .gitignore
+ 1288  git commit -m "ajout gitignore"
+ 1289  git push
+ 1290  git status
+ 1291  git add package.json
+ 1292  git commit -m "ajout package.json"
+ 1293  git push
+ 1294  git status
+ 1295  git checkout master
+ 1296  git merge dev
+ 1297  git push
+ 1298  git push origin master
+ 1299  ls
+ 1300  serve client
+ 1301  ls
+ 1302  node index.js
+ 1303  git branch ajout-etab
+ 1304  git checkout ajout-etab
+ 1305  git status
+ 1306  git add client/ajoutresto.html
+ 1307  git commit -m "page ajout resto html"
+ 1308  git push origin ajout-etab
+ 1309  git pull
+ 1310  git checkout dev
+ 1311  git pull
+ 1312  git push origin ajout-etab
+ 1313  git checkout ajout-etab
+ 1314  git push origin ajout-etab
+ 1315  git pull
+ 1316  git pull origin ajout-etab
+ 1317  git push origin ajout-etab
+ 1318  npm run lint
+ 1319  sudo npm run lint
+ 1320  ls
+ 1321  git status
+ 1322  git add client/ajoutresto.html
+ 1323  git commit -m "page ajout resto html"
+ 1324  git status
+ 1325  npm install
+ 1326  git status
+ 1327  sudo npm run lint
+ 1328  npm init
+ 1329  sudo npm run lint
+ 1330  git pull dev
+ 1331  git pull origin dev
+ 1332  git pull -f origin dev
+ 1333  git stash
+ 1334  git pull origin dev
+ 1335  git status
+ 1336  git checkout -- .htmllintrc
+ 1337  git checkout dev
+ 1338  git checkout -f dev
+ 1339  git checkout ajout-etab
+ 1340  git pull dev
+ 1341  git pull origin dev
+ 1342  npm run lint
+ 1343  sudo npm run lint
+ 1344  git status
+ 1345  npm run lint
+ 1346  git add client/ajoutetab.html
+ 1347  git commit -m "page ajout resto html"
+ 1348  git status
+ 1349  git push origin ajout-etab
+ 1350  sudo npm run lint
+ 1351  ls
+ 1352  git status
+ 1353  add client/ajoutresto.html
+ 1354  git add client/ajoutresto.html
+ 1355  git status
+ 1356  git push origin ajout-etab
+ 1357  git status
+ 1358  git commit -m "suprpession ajoutresto en double"
+ 1359  git push origin ajout-etab
+ 1360  git branch popup-cnx
+ 1361  git checkout popup-cnx
+ 1362  npm run lint
+ 1363  serve client
+ 1364  node index.js
+ 1365  serve client
+ 1366  node index.js
+ 1367  git status
+ 1368  git add client/css/common.css
+ 1369  git status
+ 1370  git add client/css/import.css
+ 1371  git add client/index.html
+ 1372  git add client/js/app.js
+ 1373  git status
+ 1374  git add client/css/import.css\~
+ 1375  git add client/css/popup.css
+ 1376  git add client/js/composants/popup.js
+ 1377  git pull
+ 1378  git pull origin popup-cnx
+ 1379  git checkout dev
+ 1380  git pull
+ 1381  git status
+ 1382  git commit -m "ajout pop up sign up/login"
+ 1383  git reset HEAD
+ 1384  git status
+ 1385  git reset --soft HEAD~1
+ 1386  git status
+ 1387  git checkout popup-cnx
+ 1388  git status
+ 1389  git commit -m "ajout pop up sign up/login"
+ 1390  git status
+ 1391  npm run lint
+ 1392  git status
+ 1393  git add client/css/popup.css
+ 1394  git commit -m "correction erreur code css"
+ 1395  npm run lint
+ 1396  ls
+ 1397  history
+ 1398  git push origin popup-cnx
+ 1399  git status
+ 1400  ls
+ 1401  serve client
+ 1402  ls
+ 1403  node index.js
+ 1404  ls
+ 1405  serve client
+ 1406  node index.js
+ 1407  serve client
+ 1408  git status
+ 1409  git add client/css/popup.css
+ 1410  git add
+ 1411  git add client/index.html
+ 1412  git add client/js/composants/popup.js
+ 1413  git add client/js/script.js
+ 1414  git status
+ 1415  git checkout client/popup.html
+ 1416  git commit -m "Mettre un addEventListener au lieu du onClick"
+ 1417  serve client
+ 1418  node index.js
+ 1419  git status
+ 1420  git add client/js/script.js
+ 1421  git add client/js/composants/popup.js
+ 1422  cd ..
+ 1423  git add client/css/popup.css
+ 1424  git add client/index.html
+ 1425  git add client/js/composants/popup.js
+ 1426  git add client/js/script.js
+ 1427  git add client/js/app.js
+ 1428  git status
+ 1429  git commit -m "Modif classes"
+ 1430  git push origin popup-cnx
+ 1431  serve client
+ 1432  node index.js
+ 1433  npm run server
+ 1434  node index.js
+ 1435  serve client
+ 1436  node index.js
+ 1437  git checkout dev
+ 1438  git pull
+ 1439  node index.js
+ 1440  node server.js
+ 1441  serve client
+ 1442  git pull
+ 1443  node server.js
+ 1444  serve client
+ 1445  node server.js
+ 1446  serve client
+ 1447  node server.js
+ 1448  serve client
+ 1449  node server.js
+ 1450  serve client
+ 1451  node server.js
+ 1452  serve client
+ 1453  node server.js
+ 1454  serve client
+ 1455  git pull
+ 1456  git status
+ 1457  git checkout --client/popup.html
+ 1458  git checkout -- client/popup.html
+ 1459  git status
+ 1460  git checkout client/popup.html
+ 1461  git add client/css/popup.css
+ 1462  git add client/index.html
+ 1463  git add client/js/app.js
+ 1464  git add client/js/composants/popup.js
+ 1465  cli
+ 1466  git add client/js/script.js
+ 1467  git status
+ 1468  git commit -m "MAJ popup"
+ 1469  git pull
+ 1470  npm run lint
+ 1471  git status
+ 1472  npm run lint
+ 1473  npm install standart
+ 1474  npm run lint
+ 1475  npm install standard
+ 1476  npm run lint
+ 1477  git status
+ 1478  git add .
+ 1479  git status
+ 1480  serve client
+ 1481  node server.js
+ 1482  git commit -m "Maj popup"
+ 1483  git checkout -b 'popup-new'
+ 1484  git status
+ 1485  git add .
+ 1486  git status
+ 1487  git commit -m "modif affichage pop up sur list-restos"
+ 1488  git status
+ 1489  npm run lint
+ 1490  git push origin popup-new
+ 1491  git checkout dev
+ 1492  git status
+ 1493  git pull
+ 1494  git server.js
+ 1495  node server.js
+ 1496  serve client
+ 1497  ls
+ 1498  serve client
+ 1499  node index.js
+ 1500  serve client
+ 1501  ls
+ 1502  node index.js
+ 1503  serve client
+ 1504  ls
+ 1505  cd serveur
+ 1506  ls
+ 1507  node index.js
+ 1508  ls
+ 1509  serve client
+ 1510  serve --v
+ 1511  cd client
+ 1512  serve index.html
+ 1513  serve client
+ 1514  ls
+ 1515  node index.js
+ 1516  serve client
+ 1517  cd ..
+ 1518  serve client
+ 1519  node index.js
+ 1520  ls
+ 1521  cd serveur
+ 1522  node index.js
+ 1523  ls
+ 1524  serve client
+ 1525  ls
+ 1526  cd serveur
+ 1527  ls
+ 1528  node index.js
+ 1529  githug
+ 1530  vim
+ 1531  githug
+ 1532  githug hint
+ 1533  githug
+ 1534  git status
+ 1535  githug
+ 1536  git status
+ 1537  1
+ 1538  githug
+ 1539  2
+ 1540  githug
+ 1541  git status
+ 1542  git rm deleteme.rb
+ 1543  githug
+ 1544  git status
+ 1545  git checkout -- deleteme.rb
+ 1546  git status
+ 1547  git rm --cached deleteme.rb
+ 1548  git status
+ 1549  githug
+ 1550  git stash
+ 1551  githug
+ 1552  git mv oldfile.txt newfile.txt
+ 1553  githug
+ 1554  node app.js
+ 1555  mysql --version
+ 1556  sudo apt install mysql-server
+ 1557  cd ..
+ 1558  mkdir sql
+ 1559  cd sql
+ 1560  mysql -u root -p
+ 1561  mysqldump -u root -p --databases capucine_l_wcs_paris>capucine_l_wcs_paris.sql
+ 1562  node app.js
+ 1563  npm install --save nodemailer
+ 1564  npm init
+ 1565  npm install --save nodemailer
+ 1566  node app.js
+ 1567  cd ..
+ 1568  cd middleware
+ 1569  node app.js
+ 1570  cd ..
+ 1571  cd email
+ 1572  node app.js
+ 1573  ls
+ 1574  node index.js
+ 1575  curl http://localhost:3333/restos
+ 1576  node index.js
+ 1577  ls
+ 1578  cd server
+ 1579  curl http://localhost:3333/restos
+ 1580  node index.js
+ 1581  curl http://localhost:3333/restos
+ 1582  node index.js
+ 1583  curl http://localhost:3333/restos/
+ 1584  node index.js
+ 1585  curl http://localhost:3333/restos/
+ 1586  node index.js
+ 1587  curl http://localhost:3333/restos/
+ 1588  node index.js
+ 1589  curl http://localhost:3333/restos/
+ 1590  curl -s -X POST  http://localhost:3333/restos/
+ 1591  git pull
+ 1592  serve client
+ 1593  cd server
+ 1594  node server.js
+ 1595  gsettings set com.canonical.Unity.Launcher launcher-position Bottom
+ 1596  bonjour la vir
+ 1597  git hello
+ 1598  cd ..
+ 1599  ls
+ 1600  cd Projet2.2
+ 1601  cd ajout-etab
+ 1602  cd ..
+ 1603  cd projet2
+ 1604  LS
+ 1605  \tls
+ 1606  cd ProjetÉ
+ 1607  cd Projet2
+ 1608  cd paris-0218-les-tontons-fringale
+ 1609  git checkout ajout-etab-form
+ 1610  git branch  ajout-etab-form
+ 1611  git checkout ajout-etab-form
+ 1612  git checkout dev
+ 1613  cd server
+ 1614  node server.js
+ 1615  curl -s -X POST http://localhost:3333/restaurants
+ 1616  git checkout ajout-etab-form
+ 1617  curl -s -X POST  http://localhost:3333/restaurants/
+ 1618  git status
+ 1619  git add server.js
+ 1620  git status
+ 1621  git add client/js/ajout-etab.js
+ 1622  git add ../client/js/ajout-etab.js
+ 1623  git add ../client/js/composants/addrest.js
+ 1624  git status
+ 1625  git commit -m "debut integration formulaire restos dans js"
+ 1626  npm run start
+ 1627  nodemon server.js
+ 1628  npm install nodemon -g
+ 1629  sudo npm install nodemon -g
+ 1630  nodemon server.js
+ 1631  curl -s -X POST  http://localhost:3333/restaurants/
+ 1632  nodemon server.js
+ 1633  node server.js
+ 1634  nodemon server.js
+ 1635  git status
+ 1636  cd ..
+ 1637  git add client/ajoutetab.html
+ 1638  git add client/js/ajout-etab.js
+ 1639  git add server/server.js
+ 1640  git status
+ 1641  git commit -m "write into json restaurants"
+ 1642  nodemon server.js
+ 1643  node server.js
+ 1644  cd server
+ 1645  nodemon server.js
+ 1646  git status
+ 1647  git add client/add-restaurant.html
+ 1648  git rm client/ajoutetab.html
+ 1649  git status
+ 1650  git commit -m "rename add-restaurant.html"
+ 1651  ls
+ 1652  node index.js
+ 1653  nodemon server.js
+ 1654  nodemon index.js
+ 1655  cd server
+ 1656  nodemon index.js
+ 1657  nodemon server.js
+ 1658  serve client
+ 1659  nodemon server.js
+ 1660  cd ..
+ 1661  git status
+ 1662  add server/server.js
+ 1663  git add server/server.js
+ 1664  git status
+ 1665  git commit -m "modif server pour ecrire dans json resto a partir du form ajout resto"
+ 1666  serve client
+ 1667  nodemon server.js
+ 1668  cd server
+ 1669  nodemon server.js
+ 1670  git status
+ 1671  git push origin ajout-etab-form
+ 1672  git branch bouton-form
+ 1673  git checkout bouton-form
+ 1674  cd server
+ 1675  ls
+ 1676  nodemon server.js
+ 1677  git status
+ 1678  git add ../client/index.html
+ 1679  git status
+ 1680  git commit -m "lien sur le bouton ajouter un lieu vers page formulaire"
+ 1681  git checkout ajout-etab-form
+ 1682  npm run lint
+ 1683  cd ..
+ 1684  npm run lint
+ 1685  curl https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > microsoft.gpg
+ 1686  sudo mv microsoft.gpg /etc/apt/trusted.gpg.d/microsoft.gpg
+ 1687  sudo sh -c 'echo "deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main" > /etc/apt/sources.list.d/vscode.list'
+ 1688  sudo apt-get update
+ 1689  sudo apt-get install code
+ 1690  code
+ 1691  npm run lint
+ 1692  code
+ 1693  npm run lint
+ 1694  git status
+ 1695  npm run lint
+ 1696  git status
+ 1697  git add client/add-restaurant.html
+ 1698  git add client/js/ajout-etab.js server/server.js
+ 1699  git status
+ 1700  git push origin ajout-etab-form
+ 1701  git commit -m "modifs suite au passage de lint"
+ 1702  git push origin ajout-etab-form
+ 1703  git pull
+ 1704  git checkout dev
+ 1705  git status
+ 1706  git pull
+ 1707  git stash
+ 1708  git pull
+ 1709  git checkout ajout-etab-form
+ 1710  npm run lint
+ 1711  git checkout dev
+ 1712  npm run lint
+ 1713  git checkout ajout-etab-form
+ 1714  git checkout
+ 1715  git status
+ 1716  git push origin ajout-etab-form
+ 1717  git pull
+ 1718  npm run lint
+ 1719  git status
+ 1720  git pull
+ 1721  git pull origin ajout-etab-form
+ 1722  git stash
+ 1723  git pull origin ajout-etab-form
+ 1724  npm run lint
+ 1725  nodemon server.js
+ 1726  npm run lint
+ 1727  git status
+ 1728  git ad server/server.js
+ 1729  git add server/server.js
+ 1730  git status
+ 1731  git commit -m "correction erreur"
+ 1732  git push origin ajout-etab-form
+ 1733  git status
+ 1734  git add client/js/add-restaurant.js client/js/composants/add
+ 1735  git add client/js/add-restaurant.js
+ 1736  git status
+ 1737  git add client/js/composants/add-rest.js
+ 1738  git status
+ 1739  git rm client/js/ajout-etab.js
+ 1740  git rm client/js/composants/addrest.js
+ 1741  git status
+ 1742  git commit -m "rename js files"
+ 1743  git push origin ajout-etab-form
+ 1744  git checkout dev
+ 1745  git pull
+ 1746  git checkout bouton-form
+ 1747  git status
+ 1748  git add client/add-restaurant.html
+ 1749  git commit -m "modif formulaire add-restaurant"
+ 1750  git checkout ajout-etab
+ 1751  git status
+ 1752  git add client/add-restaurant.html
+ 1753  git commit -m "ajout des required sur les champs du formulaire"
+ 1754  git branch -m bouton-form add-restaurant-page
+ 1755  git status
+ 1756  git checkout dev
+ 1757  git pull
+ 1758  git checkout add-restaurant-page
+ 1759  git stash
+ 1760  git checkout add-restaurant-page
+ 1761  git checkout
+ 1762  git add client/add-restaurant.html
+ 1763  git commit -m "modif bouton submit + couleur titre"
+ 1764  git push origin add-restaurant-page
+ 1765  nodemon server.js
+ 1766  npm run lint
+ 1767  git checkout dev
+ 1768  git checkout
+ 1769  git commit -m "MAJ values"
+ 1770  git add client/add-restaurant.html
+ 1771  git commit -m "MAJ values"
+ 1772  git checkout dev
+ 1773  git pull
+ 1774  tig
+ 1775  git checkout
+ 1776  git add client/add-restaurant.html
+ 1777  git checkout
+ 1778  git add client/add-restaurant.html
+ 1779  npm run lint
+ 1780  git pull dev
+ 1781  git pull
+ 1782  git pull dev
+ 1783  git pull origin dev
+ 1784  git stash
+ 1785  git pull origin dev
+ 1786  git status
+ 1787  git commit
+ 1788  git checkout
+ 1789  git add client/add-restaurant.html
+ 1790  git commit - m "correction fusion"
+ 1791  git commit
+ 1792  git checkout
+ 1793  git checkout dev
+ 1794  git pull
+ 1795  git pull origin dev
+ 1796  nodemon server.js
+ 1797  serve client
+ 1798  git checkout add-restaurant-page
+ 1799  npm run lint
+ 1800  git add client/add-restaurant.html
+ 1801  git commit -m "correction erreur"
+ 1802  git status
+ 1803  git push origin add-restaurant-page
+ 1804  git status
+ 1805  git add client/add-restaurant.html
+ 1806  npm run lint
+ 1807  git commit -m "correction bug"
+ 1808  git push origin add-restaurant-page
+ 1809  git checkout dev
+ 1810  git pull
+ 1811  git checkout add-restaurant-page
+ 1812  git status
+ 1813  git add client/add-restaurant.html
+ 1814  git commit -m "modif script js dans add-restaurant.html"
+ 1815  git push origin add-restaurant-page
+ 1816  nodemon server.js
+ 1817  serve client
+ 1818  nodemon server.js
+ 1819  serve client
+ 1820  nodemon server.js
+ 1821  serve client
+ 1822  nodemon server.js
+ 1823  serve client
+ 1824  nodemon server.js
+ 1825  serve client
+ 1826  nodemon server.js
+ 1827  serve client
+ 1828  nodemon server.js
+ 1829  serve client
+ 1830  nodemon server.js
+ 1831  serve client
+ 1832  nodemon server.js
+ 1833  serve client
+ 1834  nodemon server.js
+ 1835  serve client
+ 1836  nodemon server.js
+ 1837  serve client
+ 1838  nodemon server.js
+ 1839  serve client
+ 1840  nodemon server.js
+ 1841  serve client
+ 1842  nodemon server.js
+ 1843  serve client
+ 1844  nodemon server.js
+ 1845  git status
+ 1846  git add client/js/add-restaurant.js
+ 1847  git add client/js/list-restaurants.js
+ 1848  git add server/server.js
+ 1849  git status
+ 1850  git rm mocks/restos.json
+ 1851  git commit -m "affichage resto ajouté"
+ 1852  npm run lint
+ 1853  git status
+ 1854  git add client/js/add-restaurant.js
+ 1855  git add server/server.js
+ 1856  git commit -m "corrections lint"
+ 1857  git status
+ 1858  git push origin add-restaurant-page
+ 1859  git checkout dev
+ 1860  git pull
+ 1861  git stash
+ 1862  git pull
+ 1863  git branch restaurant-added
+ 1864  git checkout restaurant-added
+ 1865  nodemon server.js
+ 1866  git status
+ 1867  git add client/js/add-restaurant.js
+ 1868  git commit -m "redirection vers home apres validation form"
+ 1869  cd server
+ 1870  nodemon server.js
+ 1871  serve client
+ 1872  nodemon server.js
+ 1873  cd server
+ 1874  nodemon server.js
+ 1875  serve client
+ 1876  nodemon server.js
+ 1877  npm run lint
+ 1878  cd ..
+ 1879  npm run lint
+ 1880  cd server
+ 1881  nodemon server.js
+ 1882  git status
+ 1883  git add server.js
+ 1884  git commit -m "ajout des promises sur route get restaurants"
+ 1885  nodemon server.js
+ 1886  git add server.js
+ 1887  git commit -m "ajout promise sur app.get categories dans server"
+ 1888  nodemon server.js
+ 1889  git status
+ 1890  git stash
+ 1891  git checkout dev
+ 1892  git pull
+ 1893  git checkout restaurant-added
+ 1894  git stash pop
+ 1895  git push origin restaurant-added
+ 1896  git branch popup-responsive
+ 1897  git checkout popup-responsive
+ 1898  git checkout restaurant-added
+ 1899  cd ..
+ 1900  npm run lint
+ 1901  git status
+ 1902  git add client/js/add-restaurant.js
+ 1903  git add server/server.js
+ 1904  git status
+ 1905  git commit -m "corrections erreurs lint"
+ 1906  git push origin restaurant-added
+ 1907  git checkout popup-responsive
+ 1908  git checkout dev
+ 1909  git pull
+ 1910  git checkout popup-responsive
+ 1911  git status
+ 1912  git add client/css/import.css client/css/popup.css client/css/responsive.css client/js/composants/popup.js
+ 1913  git commit -m "pop up responsive + creation css pour les form"
+ 1914  git push origin popup-responsive
+ 1915  npm run lint
+ 1916  git pull
+ 1917  git checkout dev
+ 1918  git pull
+ 1919  git pull origin dev
+ 1920  git checkout popup-responsive
+ 1921  npm run lint
+ 1922  git status
+ 1923  git add client/js/add-restaurant.js server/server.js
+ 1924  git commit -m "correction lint"
+ 1925  git push origin popup-responsive
+ 1926  history  >>historique.txt
+ 1927  git checkout dev
+ 1928  git stash
+ 1929  git checkout dev
+ 1930  git pull origin dev
+ 1931  git stash pop
+ 1932  git checkout popup-responsive
+ 1933  git stash
+ 1934  git checkout popup-responsive
+ 1935  git branch add-resto-file
+ 1936  git checkout add-resto-file
+ 1937  git checkout popup-responsive
+ 1938  git status
+ 1939  git add client/js/composants/popup.js
+ 1940  git checkout popup-responsive
+ 1941  git stash
+ 1942  git checkout popup-responsive
+ 1943  npm run lint
+ 1944  git pull
+ 1945  git pull origin popup-responsive
+ 1946  npm run lint
+ 1947  git status
+ 1948  git add server/server.js
+ 1949  git add client/css/form.css
+ 1950  git commit -m "correcvtion erreurs"
+ 1951  git push origin popup-responsive
+ 1952  git checkout restaurant-added
+ 1953  git pull
+ 1954  git pull origin restaurant-added
+ 1955  git stash
+ 1956  git pull origin restaurant-added
+ 1957  git status
+ 1958  npm run lint
+ 1959  git checkout popup-responsive
+ 1960  git checkout restaurant-added
+ 1961  npm run lint
+ 1962  git status
+ 1963  git add server/server.js
+ 1964  git commit -m "corrections lint"
+ 1965  git push origin restaurant-added
+ 1966  git checkout dev
+ 1967  git branch pic-added-rest
+ 1968  git checkout pic-added-rest
+ 1969  serve client
+ 1970  cd server
+ 1971  nodemon server
+ 1972  git branch pic-added-rest form-rest-resp
+ 1973  git checkout pic-added-rest form-rest-resp
+ 1974  git checkout dev
+ 1975  git pull origin dev
+ 1976  nodemon server
+ 1977  git branch form-add-rest
+ 1978  git checkout form-add-rest
+ 1979  nodemon server
+ 1980  git stash
+ 1981  git checkout dev
+ 1982  git pull
+ 1983  nodemon server
+ 1984  git stash
+ 1985  git checkout pic-added-rest
+ 1986  git status
+ 1987  cd ..
+ 1988  git status
+ 1989  nodemon server
+ 1990  cd server
+ 1991  nodemon server
+ 1992  git stash
+ 1993  git checkout dev
+ 1994  git pull
+ 1995  git pull origin dev
+ 1996  nodemon server
+ 1997  git branch bug-redir
+ 1998  git checkout bug-redir
+ 1999  serve client
+ 2000  cd server
+ 2001  nodemon server
+ 2002  git status
+ 2003  cd ..
+ 2004  git add client/js/add-restaurant.js
+ 2005  git commit -m "redirection"
+ 2006  git push origin bug-redir
+ 2007  npm run lint
+ 2008  cd server
+ 2009  nodemon server
+ 2010  npm run lint
+ 2011  git status
+ 2012  git add client/js/add-restaurant.js
+ 2013  git commit -m "correction redirection"
+ 2014  git push origin bug-redir
+ 2015  git checkout dev
+ 2016  git pull
+ 2017  git pull origin dev
+ 2018  nodemon server
+ 2019  serve client
+ 2020  git pull
+ 2021  serve client
+ 2022  git stash pop
+ 2023  git pull
+ 2024  git stash
+ 2025  git pull
+ 2026  nodemon server
+ 2027  cd server
+ 2028  nodemon server
+ 2029  cd server
+ 2030  nodemon server
+ 2031  cd ..
+ 2032  nodemon server
+ 2033  cd server
+ 2034  nodemon server
+ 2035  cd server
+ 2036  nodemon server
+ 2037  serve client
+ 2038  cd server
+ 2039  nodemon server
+ 2040  cd server
+ 2041  serve client
+ 2042  git branch addformmaj
+ 2043  git checkout addformmaj
+ 2044  cd server
+ 2045  nodemon server.js
+ 2046  serve client
+ 2047  git status
+ 2048  cd client/images
+ 2049  git add .
+ 2050  git status
+ 2051  cd ..
+ 2052  git status
+ 2053  git add client/add-restaurant.html
+ 2054  git add client/js/add-restaurant.js
+ 2055  git add mocks/categories.json
+ 2056  git add mocks/restos.json
+ 2057  git add server/server.js
+ 2058  git status
+ 2059  git commit -m "traitement formulaire ajout restos"
+ 2060  git push origin addformaj
+ 2061  git push origin addformmaj
+ 2062  node app.js
+ 2063  git status
+ 2064  git push origin addformmaj
+ 2065  serve client
+ 2066  cd server
+ 2067  nodemon server
+ 2068  npm run lint
+ 2069  git commit -m "ajout dans les json champ a emporter"
+ 2070  git add client/js/add-restaurant.js
+ 2071  git add client/js/composants/restaurant.js
+ 2072  git add mocks/restos.json
+ 2073  git add server/server.js
+ 2074  git checkout
+ 2075  git stash
+ 2076  git checkout dev
+ 2077  git pull
+ 2078  git checkout addformmaj
+ 2079  git stash pop
+ 2080  git pull
+ 2081  git stash
+ 2082  git pull
+ 2083  git pull origin addformmaj
+ 2084  git pull dev addformmaj
+ 2085  git stash pop
+ 2086  git add client/js/add-restaurant.js
+ 2087  git add client/js/composants/restaurant.js
+ 2088  git add mocks/restos.json
+ 2089  git add server/server.js
+ 2090  git status
+ 2091  git commit -m "maj branche"
+ 2092  git push origin addformmaj
+ 2093  git checkout dev
+ 2094  git pull
+ 2095  git branch separated-json
+ 2096  git checkout separated-json
+ 2097  run mysql
+ 2098  mysql
+ 2099  nodemon server
+ 2100  cd server
+ 2101  nodemon server
+ 2102  serve client
+ 2103  git stash
+ 2104  git branch upload
+ 2105  git checkout upload
+ 2106  git checkout dev
+ 2107  git pul
+ 2108  git pull
+ 2109  git checkout upload
+ 2110  npm install multer
+ 2111  npm install --save multer
+ 2112  npm i multer
+ 2113  multer -- v
+ 2114  multer -version
+ 2115  multer -v
+ 2116  multer --v
+ 2117  cd ..
+ 2118  cd quetes
+ 2119  cd nodejs/upload
+ 2120  nodemon server
+ 2121  npm i multer
+ 2122  npm init
+ 2123  npm i multer
+ 2124  nodemon server
+ 2125  cd ..
+ 2126  cd quetes
+ 2127  cd nodejs
+ 2128  cd upload
+ 2129  cd ..
+ 2130  serve upload
+ 2131  cd server
+ 2132  nodemon server
+ 2133  ls
+ 2134  nodemon index
+ 2135  serve client
+ 2136  ^[[200~npm install multer body-parser express morgan crypto --sav~
+ 2137  npm install multer body-parser express morgan crypto --sav
+ 2138  cd server
+ 2139  nodemon index.js
+ 2140  serve client
+ 2141  ls
+ 2142  nodemon server
+ 2143  cd ..
+ 2144  serve upload
+ 2145  npm install express --save
+ 2146  nodemon server
+ 2147  npm install
+ 2148  nodemon server
+ 2149  nodemon nodejs.js
+ 2150  npm install --save multer
+ 2151  npm install
+ 2152  npm init
+ 2153  npm install
+ 2154  npm install --save multer
+ 2155  npm install express --save
+ 2156  express upload2
+ 2157  cd upload2
+ 2158  ls
+ 2159  npm install --save multer
+ 2160  ls
+ 2161  nodemon app
+ 2162  npm i cookie-parser
+ 2163  nodemon app
+ 2164  npm i morgan
+ 2165  nodemon app
+ 2166  npm install jade
+ 2167  nodemon app
+ 2168  npm install pug
+ 2169  npm i -g npm
+ 2170  sudo npm i -g npm
+ 2171  nodemon app
+ 2172  cd ..
+ 2173  cd upload
+ 2174  nodemon server
+ 2175  cd ..
+ 2176  cd upload
+ 2177  serve index
+ 2178  serve index.html
+ 2179  ls
+ 2180  cd ..
+ 2181  serve upload
+ 2182  nodemon server
+ 2183  git checkout dev
+ 2184  git stash
+ 2185  git checkout dev
+ 2186  git pull
+ 2187  serve client
+ 2188  cd server
+ 2189  nodemon server
+ 2190  nodemon server.js
+ 2191  git pull origin dev
+ 2192  ls
+ 2193  node server.js
+ 2194  cd ..
+ 2195  npm install
+ 2196  cd server
+ 2197  nodemon server.js
+ 2198  npm install
+ 2199  nodemon server.js
+ 2200  serve client
+ 2201  git checkout upload
+ 2202  git pull
+ 2203  git stash
+ 2204  git checkout upload
+ 2205  git pull
+ 2206  git pull origin upload
+ 2207  git push origin upload
+ 2208  git checkout
+ 2209  git status
+ 2210  git push origin upload
+ 2211  git pull
+ 2212  git pull origin upload
+ 2213  git checkout dev
+ 2214  git branch upload-pic
+ 2215  git checkout upload-pic
+ 2216  serve client
+ 2217  cd server
+ 2218  nodemon server
+ 2219  cd server
+ 2220  nodemon server
+ 2221  git checkout dev
+ 2222  git pull
+ 2223  git checkout dev
+ 2224  nodemon server
+ 2225  git checkout upload-pic
+ 2226  git pull
+ 2227  git stash
+ 2228  git pull
+ 2229  git pull origin dev
+ 2230  git checkout dev
+ 2231  git pull origin dev
+ 2232  git checkout upload-pic
+ 2233  git stash pop
+ 2234  git status
+ 2235  nodemon server
+ 2236  cd server
+ 2237  nodemon server
+ 2238  lsof -i:2222
+ 2239  nodemon server
+ 2240  lsof -i:3333
+ 2241  kill -9 21192
+ 2242  nodemon server
+ 2243  serve client
+ 2244  lsof -i:3333
+ 2245  kill -9 21786
+ 2246  nodemon server
+ 2247  lsof -i:3333
+ 2248  kill -9 22006
+ 2249  nodemon server
+ 2250  git status
+ 2251  nodemon server
+ 2252  lsof -i:3333
+ 2253  kill -9 22328
+ 2254  nodemon server
+ 2255  lsof -i:3333
+ 2256  kill -9 22522
+ 2257  nodemon server
+ 2258  cd server
+ 2259  nodemon server
+ 2260  serve client
+ 2261  git status
+ 2262  git add server/server.js
+ 2263  git commit -m "ajout upload"
+ 2264  git stash
+ 2265  git checkout dev
+ 2266  cd ..
+ 2267  git pull
+ 2268  nodemon server
+ 2269  cd serv er
+ 2270  cd server
+ 2271  ls
+ 2272  nodemon index.js
+ 2273  git checkout dev
+ 2274  git branch upload2
+ 2275  git checkout upload2
+ 2276  cd server
+ 2277  serve client
+ 2278  nodemon index
+ 2279  lsof -i:3333
+ 2280  kill -9 58572
+ 2281  nodemon index
+ 2282  lsof -i:3333
+ 2283  kill -9 156309
+ 2284  kill -9 9126
+ 2285  nodemon index
+ 2286  cd ..
+ 2287  npm install --save multer
+ 2288  cd server
+ 2289  nodemon index
+ 2290  lsof -i:3333
+ 2291  kill -9 275645
+ 2292  kill -9 1466
+ 2293  nodemon index
+ 2294  git clone https://github.com/akabab/todos.git
+ 2295  cd todos
+ 2296  git checkout demo-image-upload
+ 2297  git pull
+ 2298  cd server
+ 2299  ls
+ 2300  nodemon index
+ 2301  serve client
+ 2302  nodemon index
+ 2303  serve client
+ 2304  cd server
+ 2305  nodemon index
+ 2306  serve client
+ 2307  nodemon index
+ 2308  git status
+ 2309  git add client/js/add-restaurant.js
+ 2310  git add server/index.js
+ 2311  git add client/add-restaurant.html
+ 2312  git status
+ 2313  git commit -m "upload image + affichage OK"
+ 2314  nodemon index
+ 2315  serve client
+ 2316  nodemon index
+ 2317  serve client
+ 2318  git status
+ 2319  git add client/js/add-restaurant.js
+ 2320  git add server/index.js
+ 2321  git add client/add-restaurant.html
+ 2322  git status
+ 2323  git commit -m "image cattego par defaut"
+ 2324  nodemon index
+ 2325  git status
+ 2326  git add client/js/add-restaurant.js
+ 2327  git commit -m "traitement formulaire"
+ 2328  npm install --save multer
+ 2329  npm run lint
+ 2330  npm install standard --save-dev
+ 2331  standard --fix
+ 2332  npm run standard
+ 2333  npm run standard --fix
+ 2334  standard client/js/add-restaurant.js
+ 2335  npm run lint
+ 2336  git status
+ 2337  nodemon index
+ 2338  serve client
+ 2339  serve client-
+ 2340  serve client
+ 2341  cd se
+ 2342  cd server
+ 2343  nodemon index
+ 2344  git add client/js/add-restaurant.js
+ 2345  git add server/index.js
+ 2346  git commit -m "corrections lint"
+ 2347  npm run lin
+ 2348  npm run lint
+ 2349  npm update lint
+ 2350  npm run lint
+ 2351  git add client/js/add-restaurant.js
+ 2352  git add server/index.js
+ 2353  git status
+ 2354  cat package.json
+ 2355  git add package.json
+ 2356  git commit "correct lint"
+ 2357  git push origin upload2
+ 2358  git checkout dev
+ 2359  git status
+ 2360  git commit -m "corrections"
+ 2361  git push
+ 2362  git push origin upload2
+ 2363  git status
+ 2364  npm run lint
+ 2365  serve client$
+ 2366  cd server
+ 2367  nodemon index
+ 2368  serve client$
+ 2369  serve client
+ 2370  git status
+ 2371  git add client/js/add-restaurant.js
+ 2372  git commit -m "last lint"
+ 2373  git push
+ 2374  git push origin upload2
+ 2375  npm run lint
+ 2376  git status
+ 2377  npm run lint
+ 2378  git status
+ 2379  cat package-lock.json
+ 2380  git add client/js/add-restaurant.js
+ 2381  git commit -m "lin"
+ 2382  git push origin upload2
+ 2383  cd server
+ 2384  nodemon index
+ 2385  serve client
+ 2386  git stash
+ 2387  git checkout dev
+ 2388  git pull origin dev
+ 2389  git branch show-popup
+ 2390  git checkout show-popup
+ 2391  git stash
+ 2392  git checkout dev
+ 2393  gitpull
+ 2394  git pull
+ 2395  serve client
+ 2396  cd server
+ 2397  nodemon index
+ 2398  serve client
+ 2399  git pull
+ 2400  cd server
+ 2401  nodemon index
+ 2402  serve client
+ 2403  git branch profil-button
+ 2404  git checkout profil-button
+ 2405  git pull
+ 2406  cd server/
+ 2407  nodemon index
+ 2408  serve client
+ 2409  nodemon index
+ 2410  git status
+ 2411  git add client/js/profil.js
+ 2412  git status
+ 2413  git add client/profile.html
+ 2414  git status
+ 2415  git commit -m "modif disabled sur boutons"$
+ 2416  git commit -m "modif disabled sur boutons"
+ 2417  nodemon index
+ 2418  git push origin profil-button
+ 2419  git branch cnx-new-user
+ 2420  git checkout cnx-new-user
+ 2421  git checkout profil-button
+ 2422  npm run lint
+ 2423  git add client/js/profil.js
+ 2424  git commit -m "lint"
+ 2425  git push origin profil-button
+ 2426  nodemon index
+ 2427  git checkout dev
+ 2428  git stash
+ 2429  git checkout dev
+ 2430  git pull
+ 2431  git checkout cnx-new-user
+ 2432  history
+ 2433  git pull
+ 2434  git pull origin dev
+ 2435  git stash pop
+ 2436  git stash
+ 2437  git checkout dev
+ 2438  git checkout cnx-new-user
+ 2439  git stash pop
+ 2440  serve client
+ 2441  nodemon index
+ 2442  git status
+ 2443  git add client/js/popup.js
+ 2444  git add server/index.js
+ 2445  git add client/js/popup.js
+ 2446  git status
+ 2447  git add client/js/composants/popup.js
+ 2448  git commit -m "ajout du champ nom"
+ 2449  git push origin cnx-new-user
+ 2450  git branch randomeal
+ 2451  git checkout randomeal
+ 2452  git stash
+ 2453  git checkout -b form-contact
+ 2454  git pull origin contact-form
+ 2455  git status
+ 2456  git add client/contact2.html
+ 2457  git commit -m "correction header"
+ 2458  git push origin contact-form
+ 2459  git push origin form-contact
+ 2460  git checkout randomeal
+ 2461  git add client/js/list-restaurants.js
+ 2462  git commit -m "affichage resto random"
+ 2463  cd server
+ 2464  nodemon index
+ 2465  serve client
+ 2466  cd server
+ 2467  nodemon server
+ 2468  git stash
+ 2469  git checkout cnx-new-user
+ 2470  git checkout randomeal
+ 2471  git stash pop
+ 2472  nodemon server
+ 2473  git status
+ 2474  cd ..
+ 2475  git add client/index.html
+ 2476  git add client/js/list-restaurants.js
+ 2477  git add client/list-restaurants.html
+ 2478  git add client/js/randomeal.js
+ 2479  git status
+ 2480  git commit -m "randomeal ok"
+ 2481  npm run lint
+ 2482  git status
+ 2483  git add client/add-restaurant.html client/js/list-restaurants.js client/js/randomeal.js
+ 2484  git status
+ 2485  git commit -m "lint"
+ 2486  git push origin randomeal
+ 2487  cd server
+ 2488  nodemon index
+ 2489  cd server
+ 2490  nodemon index.jsw
+ 2491  nodemon index
+ 2492  serve client
+ 2493  cd server
+ 2494  nodemon index
+ 2495  serve client
+ 2496  git checkout dev
+ 2497  git pull
+ 2498  git checkout -b randomeal2
+ 2499  git checkout randomeal
+ 2500  git pull
+ 2501  git checkout -b randomeal-2
+ 2502  npm run lint
+ 2503  cd ..
+ 2504  npm run lint
+ 2505  git status
+ 2506  git add client/add-restaurant.html client/index.html client/js/composants/header.js client/js/list-restaurants.js client/list-restaurants.html
+ 2507  git status
+ 2508  git rm client/js/randomeal.js
+ 2509  git status
+ 2510  git commit -m "randomeal"
+ 2511  git push origin randomeal-2
+ 2512  git checkout cnx-new-user
+ 2513  cd server
+ 2514  nodemon index
+ 2515  cd ..
+ 2516  npm run server
+ 2517  git status
+ 2518  git add mocks/user.json
+ 2519  git commit -m "modif json"
+ 2520  git push
+ 2521  git push origin cnx-new-user
+ 2522  serve client
+ 2523  npm run server
+ 2524  npm install express
+ 2525  npm run server
+ 2526  git checkout -b lalala
+ 2527  git pull origin contactform2
+ 2528  npm run server
+ 2529  mv lalala email
+ 2530  git branch -m lalala email
+ 2531  git checkout cnx-new-user
+ 2532  git status
+ 2533  git add mocks/user.json
+ 2534  git commit -m "modif order"
+ 2535  git push origin cnx-new-user
+ 2536  npm run server*$
+ 2537  npm run server
+ 2538  git checkout dev
+ 2539  npm run server
+ 2540  git checkout randomeal-2
+ 2541  git status
+ 2542  git stash
+ 2543  git pull
+ 2544  npm run server
+ 2545  git pull
+ 2546  git clone https://github.com/WildCodeSchool/paris-0218-vie-de-dev.git
+ 2547  git clone https://github.com/WildCodeSchool/paris-0218-checkpoint-2-js.git
+ 2548  cd paris-0218-checkpoint-2-js
+ 2549  git checkout -b capucinel
+ 2550  npm install
+ 2551  npm run qcm
+ 2552  git status
+ 2553  git add qcm.json
+ 2554  git commit -m "qcm"
+ 2555  git push origin HEAD
+ 2556  npm run client
+ 2557  npm run server
+ 2558  cd client
+ 2559  node battle-of-yavin.js
+ 2560  cd ..
+ 2561  npm run server
+ 2562  git status
+ 2563  git add client/battle-of-yavin.js
+ 2564  git add client/components/character.js
+ 2565  git add client/index.htML
+ 2566  git add client/index.JS
+ 2567  git add client/index.js
+ 2568  git add client/index.html
+ 2569  git status
+ 2570  git add server/index.js
+ 2571  git status
+ 2572  git add server/index.js
+ 2573  git commit "end"
+ 2574  git push origin capucinel
+ 2575  git status
+ 2576  git pull
+ 2577  npm run server
+ 2578  serve client
+ 2579  git checkout add-resto-file
+ 2580  git checkout dev
+ 2581  git clone https://github.com/WildCodeSchool/paris-0218-checkpoint-2-js.git
+ 2582  git clone https://github.com/WildCodeSchool/paris-0218-in-the-wild.git
+ 2583  https://github.com/WildCodeSchool/paris-0218-wild-connection.git
+ 2584  git clone https://github.com/WildCodeSchool/paris-0218-wild-connection.git
+ 2585  git clone https://github.com/WildCodeSchool/paris-0218-loop-4.git
+ 2586  git clone https://github.com/WildCodeSchool/paris-0218-w1lDe3r-keurkeur.git
+ 2587  git clone https://github.com/WildCodeSchool/paris-0218-wild-news.git
+ 2588  git clone https://github.com/WildCodeSchool/paris-0218-wild-source.git
+ 2589  git clone https://github.com/WildCodeSchool/paris-0218-wild-book.git
+ 2590  serve client
+ 2591  npm run server
+ 2592  npm install express-session
+ 2593  npm run server
+ 2594  npm install session-file-store
+ 2595  npm run server
+ 2596  cd server
+ 2597  nodemon index.js
+ 2598  npm run server
+ 2599  serve client
+ 2600  npm run server
+ 2601  serve client
+ 2602  npm run server
+ 2603  node -v
+ 2604  npm update
+ 2605  npm run server
+ 2606  cd server
+ 2607  NODE INDEX.JS
+ 2608  node index.js
+ 2609  npm run update
+ 2610  cd ..
+ 2611  npm run update
+ 2612  git clone https://github.com/WildCodeSchool/paris-0218-checkpoint-2-js.git
+ 2613  ls
+ 2614  cd paris-0218-checkpoint-2-js
+ 2615  npm install
+ 2616  npm run server
+ 2617  npm install
+ 2618  npm run server
+ 2619  git branch capucine2
+ 2620  git checkout capucine2
+ 2621  npm install
+ 2622  npm run server
+ 2623  npm run client
+ 2624  npm run server
+ 2625  git clone https://github.com/WildCodeSchool/paris-0218-checkpoint-2-js.git
+ 2626  ls
+ 2627  cd paris-0218-checkpoint-2-js
+ 2628  git checkout -b capucin
+ 2629  cd paris-0218-checkpoint-2-js
+ 2630  npm run server
+ 2631  npm serve client
+ 2632  serve client
+ 2633  npm run server
+ 2634  serve client
+ 2635  npm run server
+ 2636  serve client
+ 2637  npm run server
+ 2638  serve client
+ 2639  npm run server
+ 2640  serve client
+ 2641  npm run client
+ 2642  ls
+ 2643  nodemon server
+ 2644  npm install pretty-error
+ 2645  nodemon server
+ 2646  serve client
+ 2647  nodemon server
+ 2648  ls
+ 2649  node module.js
+ 2650  node module_cow.js
+ 2651  ls
+ 2652  cd serveur
+ 2653  node index.js
+ 2654  serve client
+ 2655  git init
+ 2656  git checkout -b dev
+ 2657  git checkout
+ 2658  git add .
+ 2659  git commit -m "first commit"
+ 2660  git status
+ 2661  git push -u origin dev
+ 2662  cd ..
+ 2663  git clone https://github.com/capucinel/wildocodak-refonte.git
+ 2664  cd wildocodak-refonte
+ 2665  git add .
+ 2666  git commit -m "fichiers originaux"
+ 2667  git push origin master
+ 2668  git push origin dev
+ 2669  git checkout dev
+ 2670  git checkout -b dev
+ 2671  git add .
+ 2672  git commit -m "fichiers de base"
+ 2673  git push origin dev
+ 2674  npm init
+ 2675  npm install express
+ 2676  npm run server
+ 2677  npm install server
+ 2678  nodemon server
+ 2679  npm run server
+ 2680  cd server
+ 2681  nodemon index
+ 2682  npm i -g nodemon
+ 2683  sudo npm i -g nodemon
+ 2684  nodemon index
+ 2685  serve client
+ 2686  git status
+ 2687  git add .
+ 2688  git commit -m "mise en place header"
+ 2689  git push origin dev
+ 2690  git status
+ 2691  git add .
+ 2692  git commit -m "injections + serveur"
+ 2693  git push
+ 2694  git push origin dev
+ 2695  git status
+ 2696  cd ..
+ 2697  git add .
+ 2698  git commit -m "organisation"
+ 2699  git push origin dev
+ 2700  npm run server
+ 2701  ls
+ 2702  cd server
+ 2703  nodemon index
+ 2704  ls
+ 2705  node index.js
+ 2706  serve client
+ 2707  npm run server
+ 2708  serve client
+ 2709  ls
+ 2710  mysql
+ 2711  mysql ---u
+ 2712  mysql -- user root
+ 2713  mysql_secrure_installation
+ 2714  mysql_secure_installation
+ 2715  mysql -u root
+ 2716  mysql
+ 2717  mysql -u capucine
+ 2718  mysql
+ 2719  mysql -v
+ 2720  mysql -version
+ 2721  show database
+ 2722  mysql
+ 2723  mysql -u root -p
+ 2724* serve client
+ 2725  npm run server
+ 2726  history

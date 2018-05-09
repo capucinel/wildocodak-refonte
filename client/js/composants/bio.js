@@ -33,15 +33,7 @@ export const bio = `
         </div>
       </div>
       <!-- map -->
-      <div class="jumbotron">
-        <h1>Downtown</h1>
-        <p>You are a photograph. Click here to add the place where you shoot your pics.The place of galleries where your works
-          are exhibited. yes we know a little more about you</p>
-        <div class="map-responsive">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d83998.75786921647!2d2.276848452148941!3d48.8589505769264!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66e1f06e2b70f:0x40b82c3688c9460!2sParis!5e0!3m2!1sen!2sfr!4v1521198282922"
-            width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-        </div>
-      </div>
+
     </div>
   </div>
   `
