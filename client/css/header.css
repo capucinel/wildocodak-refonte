@@ -6,9 +6,10 @@
     position: fixed;
     opacity: 1;
     width: 100%;
-    margin-top: 0px;
+    top: 0;
     height :60px;
-    z-index: 1000;
+    z-index: 100;
+    /* margin-bottom:100px;  */
 }￼
 ￼
 .navbar-default .navbar-collapse,

@@ -12,8 +12,8 @@ export const header = `
   </div>
   <div class="collapse navbar-collapse" id="myNavbar">
     <ul class="nav navbar-nav navbar-right">
-      <li><a href="gallery.html"><span class="glyphicon glyphicon-film"></span>  Gallery</a></li>
-      <li><a href="bio.html"><span class="glyphicon glyphicon-eye-open"></span>  About me</a></li>
+      <li><a href="galerie.html"><span class="glyphicon glyphicon-film"></span>  Gallery</a></li>
+      <li><a href="kodak.html"><span class="glyphicon glyphicon-eye-open"></span>  About me</a></li>
     </ul>
   </div>
 </div>
