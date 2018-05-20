@@ -1,37 +1,37 @@
-.bio > .container-fluid{
-	position: absolute;
+.bio > .container-fluid {
 }
 
-.bio > .row{
+.bio > .row {
 	display: inline-block;
 	width: auto;
 	height: auto;
 	margin-right:7%;
 }
 
-.thumbnail {
-	background-color: black;
+.content {
 	border-color: black;
 	padding-top: 10px;
 	padding-left: 10px;
 	padding-right: 10px;
+	background-color: black !important; ;
+	display: flex;
+	flex-direction: column;
+		
 }
 
-.thumbnail .caption {
+.text-bio {
 	color: #fffcfc;
 	text-align: justify;
 }
 
-
-
-.button{
- 
+.button { 
   margin-top: 25px;
   background-color: black;
   border-radius: 10px;
-   border: 2px solid white;}
+   border: 2px solid white;
+}
 
-   .button:hover{
+.button:hover {
   background-color: #130091;
   color:;
   border: white 2px solid;

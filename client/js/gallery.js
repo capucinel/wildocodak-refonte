@@ -1,4 +1,6 @@
-import { createImage } from './composants/image.js'
+import {
+    createImage
+} from './composants/image.js'
 
 const contentContainer = document.getElementById('content')
 const filterAll = document.getElementById('filter-all')
@@ -43,4 +45,3 @@ filterS.addEventListener('click', () => {
             contentContainer.innerHTML = image.map(createImage).join('')
         })
 })
-

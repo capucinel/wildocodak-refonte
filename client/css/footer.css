@@ -1,20 +1,19 @@
-footer{    background-color: #333333;
+footer {    
+    background-color: #333333;
     position: absolute;
     bottom:0;
     width: 100%;
     opacity:0.9;
     font-weight: bold;
-
 }
 
 .footitem{
-    padding:5px;
+    padding: 5px;
     text-align: center;
 }
 
-
 .icone_reseaux{
-    padding:10px;
+    padding: 10px;
     display:inline;
 }
 
@@ -26,7 +25,6 @@ footer{    background-color: #333333;
     -o-transition: all 0.5s ease; /* Opera */
     transition: all 0.5s ease;
 }
-
 
 .icone_reseaux > a > img:hover {
     /* L'image est grossie de 25% */
@@ -40,11 +38,6 @@ footer{    background-color: #333333;
 footer .row {
     color: white;
     margin-top: 5px;
-}
-
-footer .container-fluid{
-
-
 }
 
 footer .row a{

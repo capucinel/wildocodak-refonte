@@ -1,22 +1,22 @@
 export const header = `
 
-<nav class="navbar navbar-default" role="navigation">
+<nav class="navbar navbar-default">
 <div class="container-fluid">
-<div class="navbar-header">
-<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-<span class="sr-only">Toggle navigation</span>
-<span class="icon-bar"></span>
-<span class="icon-bar"></span>
-<span class="icon-bar"></span>
-</button> 
-<a class="navbar-brand" href="#">WILDO CODAK photophraph</a>
-</div>
-
-<div id="menu" class="navbar-collapse collapse">
-<ul class="nav navbar-nav navbar-right">
-<li><a href="galerie.html">Gallery</a></li>
-<li><a href="kodak.html">About me</a></li>
-</div>
+  <div class="navbar-header">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span> 
+    </button>
+    <a class="navbar-brand" href="index.html">WILDO CODAK Photograph</a>
+  </div>
+  <div class="collapse navbar-collapse" id="myNavbar">
+    <ul class="nav navbar-nav navbar-right">
+      <li><a href="gallery.html"><span class="glyphicon glyphicon-film"></span>  Gallery</a></li>
+      <li><a href="bio.html"><span class="glyphicon glyphicon-eye-open"></span>  About me</a></li>
+    </ul>
+  </div>
 </div>
 </nav>
+
 `
