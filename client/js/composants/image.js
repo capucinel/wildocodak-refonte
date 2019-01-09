@@ -6,7 +6,7 @@ return `
   </a>
 </div>
   <a href="#_" class="lightbox" id="${img.id}">
-    <img src="${img.url}">
+    <img src="${img.url}" />
   </a>
 `
 }

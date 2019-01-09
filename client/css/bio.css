@@ -1,5 +1,4 @@
-.bio > .container-fluid {
-}
+
 
 .bio > .row {
 	display: inline-block;
@@ -9,19 +8,27 @@
 }
 
 .content {
-	border-color: black;
+	border-color:#2B2D42;
 	padding-top: 10px;
 	padding-left: 10px;
 	padding-right: 10px;
-	background-color: black !important; ;
+	background-color:#2B2D42 !important; 
 	display: flex;
 	flex-direction: column;
+	width : 90%;
+	min-width : 255px;
 		
 }
 
 .text-bio {
 	color: #fffcfc;
 	text-align: justify;
+}
+
+.pic-bio2 {
+background-image: url("http://www.digital-photography-tips.net/images/self-portrait-21313794.jpg");
+background-size: contain;
+height : 400px;
 }
 
 .button { 
