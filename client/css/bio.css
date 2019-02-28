@@ -1,23 +1,19 @@
-
-
-.bio > .row {
+.bio>.row {
 	display: inline-block;
 	width: auto;
 	height: auto;
-	margin-right:7%;
+	margin-right: 7%;
 }
 
 .content {
-	border-color:#2B2D42;
-	padding-top: 10px;
-	padding-left: 10px;
-	padding-right: 10px;
-	background-color:#2B2D42 !important; 
+	border-color: #2B2D42;
+    padding: 10px 10px 0;
+	background-color: #2B2D42 !important;
 	display: flex;
 	flex-direction: column;
-	width : 90%;
-	min-width : 255px;
-		
+	width: 90%;
+	min-width: 255px;
+	margin-bottom: 60px;
 }
 
 .text-bio {
@@ -26,21 +22,20 @@
 }
 
 .pic-bio2 {
-background-image: url("http://www.digital-photography-tips.net/images/self-portrait-21313794.jpg");
-background-size: contain;
-height : 400px;
+	background-image: url("http://www.digital-photography-tips.net/images/self-portrait-21313794.jpg");
+	background-size: contain;
+	height: 400px;
 }
 
-.button { 
-  margin-top: 25px;
-  background-color: black;
-  border-radius: 10px;
-   border: 2px solid white;
+.button {
+	/* margin-top: 25px; */
+	background-color: black;
+	border-radius: 10px;
+	border: 2px solid white;
 }
 
 .button:hover {
-  background-color: #130091;
-  color:;
-  border: white 2px solid;
+	background-color: #130091;
+	color: ;
+	border: white 2px solid;
 }
-

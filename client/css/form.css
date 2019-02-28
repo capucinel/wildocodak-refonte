@@ -1,21 +1,6 @@
 /* CONTACT*/
 
 
-.button{
-  margin-left:160px;
-  margin-top: 25px;
-  background-color: black;
-  border-radius: 10px;
-   border: 2px solid white;
-   margin-bottom: 80px;
-}
-
-.button:hover{
-  background-color: #130091;
-  color:;
-  border: white 2px solid;
-}
-
 form {
 max-width: 400px;
 margin: 0 auto;

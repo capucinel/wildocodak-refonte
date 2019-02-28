@@ -5,11 +5,13 @@ footer {
     width: 100%;
     opacity:0.9;
     font-weight: bold;
+    font-size: 12px;
 }
 
 .footitem{
     padding: 5px;
     text-align: center;
+    
 }
 
 .icone_reseaux{
@@ -24,6 +26,7 @@ footer {
     -ms-transition: all 0.5s ease; /* Internet Explorer 9 */
     -o-transition: all 0.5s ease; /* Opera */
     transition: all 0.5s ease;
+    width: 22px;
 }
 
 .icone_reseaux > a > img:hover {
@@ -42,4 +45,9 @@ footer .row {
 
 footer .row a{
     color: white;
+}
+
+.foot {
+    margin: 0;
+    padding: 0;
 }
